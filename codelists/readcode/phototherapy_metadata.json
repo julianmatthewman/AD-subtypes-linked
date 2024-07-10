@@ -1,0 +1,17 @@
+{
+  "includeTerms": [
+    "puva",
+    "light therapy",
+    "phototherapy",
+    "ultraviolet b therapy",
+    "ultraviolet a therapy"
+  ],
+  "excludeTerms": [
+    "device",
+    "complication"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdOn": "2022-11-11T11:17:19.609Z",
+  "lastUpdated": "2022-11-11T11:17:19.609Z"
+}

@@ -1,0 +1,2 @@
+non-specific list of antihistamines, including those prescribed for sleep or coughs and colds (e.g. those with paracetamol, ibuprofen), excluding drugs for nausea, vomiting and vertigo which can be part of the same substance class
+cross checked with codelist form opencodelists (https://www.opencodelists.org/codelist/opensafely/antihistamines-oral/2020-10-22/)

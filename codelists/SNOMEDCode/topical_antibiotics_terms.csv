@@ -1,0 +1,13 @@
+searchterms,exclusionterms,searched_in_column,searchmethod
+fusidic,eye drops,description,default stringr::str_detect() search method
+fusidat,infusion,,
+mupirocin,nasal,,
+Fucidin,tablet,,
+Anabact,oral,,
+Zyomet,catheter,,
+Acea 0.75% gel,injection,,
+Gentamicin,sachets,,
+,ear drops,,
+,implant,,
+,supposit,,
+,powder,,

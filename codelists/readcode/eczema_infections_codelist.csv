@@ -1,0 +1,126 @@
+﻿readcode,description
+M08..00,Cutaneous cellulitis
+M08y.00,[X]Cellulitis of other sites
+M08C.00,Cellulitis of toe
+M08B.00,Cellulitis of foot
+M08A.00,Cellulitis of axilla
+M089.00,Cellulitis of neck
+M088.00,Cellulitis of arm
+M086.00,Cellulitis of ankle
+M085.00,Cellulitis of leg
+M084.00,[X]Cellulitis of breast
+M083.00,Cellulitis of trunk
+M082.00,Cellulitis of face
+M081.00,[X]Cellulitis of other parts of limb
+M080.00,[X]Cellulitis of finger and toe
+M080.13,[X]Cellulitis of thumb
+M02..00,Cellulitis and abscess of finger and toe
+M021.00,Cellulitis and abscess of toe
+M021000,Cellulitis and abscess of toe unspecified
+M021z00,Cellulitis and abscess of toe NOS
+M020.00,Cellulitis and abscess of finger
+M020z00,Cellulitis and abscess of finger NOS
+M020000,Cellulitis and abscess of finger unspecified
+M020112,Whitlow
+M02z.00,Cellulitis and abscess of digit NOS
+M03..13,Cellulitis of skin area excluding digits of hand or foot
+M03..00,Other cellulitis and abscess
+M03z.00,Cellulitis and abscess NOS
+M03z000,Cellulitis NOS
+M03zz00,Cellulitis and abscess NOS
+M03y.00,Other specified cellulitis and abscess
+M03y000,Cellulitis and abscess of head unspecified
+M038.00,Cellulitis of external ear
+M037.11,Cellulitis and abscess of foot
+M037.00,Cellulitis and abscess of foot excluding toe
+M037z00,Cellulitis and abscess of foot NOS
+M037200,Cellulitis in diabetic foot
+M037100,Cellulitis and abscess of heel
+M037000,Cellulitis and abscess of foot unspecified
+M036.11,Cellulitis and abscess of leg
+M036.00,Cellulitis and abscess of leg excluding foot
+M036z00,Cellulitis and abscess of leg NOS
+M036400,Cellulitis and abscess of ankle
+M036300,Cellulitis and abscess of lower leg
+M036200,Cellulitis and abscess of knee
+M036100,Cellulitis and abscess of thigh
+M036000,Cellulitis and abscess of hip
+M035.00,Cellulitis and abscess of buttock
+M034.11,Cellulitis and abscess of hand
+M034.00,Cellulitis and abscess of hand excluding digits
+M034z00,Cellulitis and abscess of hand NOS
+M034100,Cellulitis and abscess of wrist
+M034013,Cellulitis of dorsum of hand
+M034014,Cellulitis of palm of hand
+M034000,Cellulitis and abscess of hand unspecified
+M033.00,Cellulitis and abscess of arm
+M033z00,Cellulitis and abscess of arm NOS
+M033400,Cellulitis and abscess of forearm
+M033300,Cellulitis and abscess of elbow
+M033200,Cellulitis and abscess of upper arm
+M033100,Cellulitis and abscess of axilla
+M033000,Cellulitis and abscess of shoulder
+M032.00,Cellulitis and abscess of trunk
+M032z00,Cellulitis and abscess of trunk NOS
+M032800,Cellulitis of trunk
+M032700,Cellulitis and abscess of perineum
+M032600,Cellulitis and abscess of groin
+M032500,Cellulitis and abscess of flank
+M032400,Cellulitis and abscess of umbilicus
+M032300,Cellulitis and abscess of abdominal wall
+M032200,Cellulitis and abscess of back
+M032100,Cellulitis and abscess of breast
+M032000,Cellulitis and abscess of chest wall
+M030.00,Cellulitis and abscess of face
+M030z00,Cellulitis and abscess of face NOS
+M030600,Cellulitis of face
+M030500,Cellulitis and abscess of temple region
+M030400,Cellulitis and abscess of forehead
+M030300,Cellulitis and abscess of submandibular region
+M030200,Cellulitis and abscess of chin
+M030111,Cellulitis and abscess of nose
+M030100,Cellulitis and abscess of nose (external)
+M030011,Cellulitis and abscess of cheek
+M030000,Cellulitis and abscess of cheek (external)
+M031.00,Cellulitis and abscess of neck
+M05..00,Impetigo
+M05z.00,Impetigo NOS
+M057.00,Chronic symmetrical impetigo
+M056.00,Impetigo follicularis
+M055.00,Impetigo simplex
+M053.00,Impetigo circinata
+M052.00,Impetigo contagiosa gyrata
+M051.00,Impetigo contagiosa bullosa
+M050.00,Impetigo contagiosa unspecified
+A54..12,Scrum pox
+A54..00,Herpes simplex
+A54..11,Herpes simplex viral infection
+A54y.00,Herpes simplex with unspecified complication
+A54x.00,Herpes simplex with other specified complication
+A54xz00,Herpes simplex with other specified complication NOS
+A54x300,Herpesviral vesicular dermatitis
+A546.00,Herpes simplex whitlow
+A544100,Herpes simplex eyelid dermatitis
+A54z.11,Herpes labialis
+A54z.00,Herpes simplex no complication NOS
+A548.00,[X] Herpes labialis
+A542.00,Herpetic gingivostomatitis
+A542.11,Cold sore (herpetic)
+A542.12,Stomatitis - herpetic
+A540.00,Eczema herpeticum - Kaposi's varicelliform eruption
+F501112,"Cellulitis, external ear"
+2524.12,O/E - herpes labialis
+2524.11,O/E - cold sore
+2524,O/E-herpes labialis-cold sore
+A780.00,Molluscum contagiosum
+A780000,Molluscum contagiosum with eyelid involvement
+J54..11,Cellulitis - anus or rectum
+J540.11,Perianal cellulitis
+Myu0200,[X]Impetiginization of other dermatoses
+F4D0.11,Cellulitis of eyelids
+F4D1400,Cellulitis of eyelid
+F4G0100,Orbital cellulitis
+J085100,Cellulitis of lip
+K272300,Cellulitis of penis
+K284300,Cellulitis of scrotum
+M15y012,Staphylococcal scalded skin syndrome

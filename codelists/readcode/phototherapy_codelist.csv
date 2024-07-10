@@ -1,0 +1,23 @@
+﻿readcode,description
+863..11,Phototherapy
+863..00,Phototherapy/radiation therapy
+863Z.00,Radiation/phototherapy NOS
+8631,Phototherapy
+8637,Ultraviolet B therapy
+8636,Ultraviolet A therapy
+8632,Ultraviolet light therapy
+8632.12,U-V light therapy
+8632.13,UVA phototherapy
+8632.14,UVB phototherapy
+8632.15,Ultraviolet light phototherapy
+8632.11,PUVA phototherapy
+7G0E.00,Phototherapy to skin
+7G0Ez00,Phototherapy to skin NOS
+7G0Ey00,Other specified phototherapy to skin
+7G0E300,Combined photochemotherapy and ultraviolet B light therapy to skin
+7G0E200,Combined photochemotherapy and ultraviolet A light therapy to skin
+7G0E100,Ultraviolet B light therapy to skin
+7G0E000,Ultraviolet A light therapy to skin
+5B1..00,Visible light therapy
+5B1Z.00,Visible light therapy NOS
+5B11.00,Anti-inflammat. light therapy

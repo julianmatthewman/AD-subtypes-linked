@@ -1,0 +1,23 @@
+{
+  "includeTerms": [
+    "urticaria",
+    "hives",
+    "nettle rash"
+  ],
+  "excludeTerms": [
+    "test",
+    "amyloid nephropathy with deafness and urticaria",
+    "factitial",
+    "drug induced",
+    "menstrual",
+    "familial febrile",
+    "pigmentosa",
+    "solar",
+    "neonatorum",
+    "due to serum"
+  ],
+  "terminology": "Readv2",
+  "version": "v20160401",
+  "createdOn": "2023-01-09T15:36:04.024Z",
+  "lastUpdated": "2023-01-09T15:36:04.024Z"
+}

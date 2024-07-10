@@ -1,0 +1,1928 @@
+SNOMEDCode,description,bnf_chapter
+'320139002,Salbutamol 100micrograms/dose inhaler CFC free,
+'1056811000001104,Salbutamol 100micrograms/dose inhaler CFC free,301011
+'597011000001101,Airomir 100micrograms/dose inhaler (Teva UK Ltd),301011
+'1478511000001108,Airomir 100micrograms/dose inhaler (Teva UK Ltd),301011
+'840111000001107,Salbulin 100micrograms/dose inhaler (3M Health Care Ltd),301011
+'1478611000001107,Salbulin 100micrograms/dose inhaler (3M Health Care Ltd),301011
+'7511000001105,Salbutamol 100micrograms/dose inhaler CFC free (Actavis UK Ltd),301011
+'1479011000001105,Salbutamol 100micrograms/dose inhaler CFC free (Actavis UK Ltd),301011
+'757611000001104,Salbutamol 100micrograms/dose inhaler CFC free (Teva UK Ltd),301011
+'1479311000001108,Salbutamol 100micrograms/dose inhaler CFC free (Teva UK Ltd),301011
+'222311000001102,Ventolin 100micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),301011
+'1479411000001101,Ventolin 100micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),301011
+'106511000001103,Salamol 100micrograms/dose inhaler CFC free (Teva UK Ltd),301011
+'1481411000001105,Salamol 100micrograms/dose inhaler CFC free (Teva UK Ltd),301011
+'45111000001100,Salbutamol 100micrograms/dose inhaler CFC free (Mylan),301011
+'1756011000001108,Salbutamol 100micrograms/dose inhaler CFC free (Mylan),301011
+'5277911000001102,Ventolin 100micrograms/dose Evohaler (Waymade Healthcare Plc),
+'5278211000001105,Ventolin 100micrograms/dose Evohaler (Waymade Healthcare Plc),
+'5594511000001100,Ventolin 100micrograms/dose Evohaler (Dowelhurst Ltd),
+'5594611000001101,Ventolin 100micrograms/dose Evohaler (Dowelhurst Ltd),
+'13968911000001104,Ventolin 100micrograms/dose Evohaler (DE Pharmaceuticals),
+'13969011000001108,Ventolin 100micrograms/dose Evohaler (DE Pharmaceuticals),
+'17471111000001109,Ventolin 100micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'17471211000001103,Ventolin 100micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'18041311000001106,Salbutamol 100micrograms/dose inhaler CFC free (Sandoz Ltd),301011
+'18041411000001104,Salbutamol 100micrograms/dose inhaler CFC free (Sandoz Ltd),301011
+'18148111000001107,Asmavent 100micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),301011
+'18148211000001101,Asmavent 100micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),301011
+'20434411000001107,Salamol 100micrograms/dose inhaler CFC free (Arrow Generics Ltd),301011
+'20434611000001105,Salamol 100micrograms/dose inhaler CFC free (Arrow Generics Ltd),301011
+'22503111000001109,AirSalb 100micrograms/dose inhaler CFC free (Sandoz Ltd),301011
+'22503211000001103,AirSalb 100micrograms/dose inhaler CFC free (Sandoz Ltd),301011
+'436811000001108,Nuelin 60mg/5ml liquid (3M Health Care Ltd),301030
+'2324611000001108,Nuelin 60mg/5ml liquid (3M Health Care Ltd),301030
+'386411000001106,Becotide Rotahaler (GlaxoSmithKline UK Ltd),21011000500
+'2667211000001103,Becotide Rotahaler (GlaxoSmithKline UK Ltd),21011000500
+'906811000001103,Ventolin Rotahaler (GlaxoSmithKline UK Ltd),21011000500
+'2667911000001107,Ventolin Rotahaler (GlaxoSmithKline UK Ltd),21011000500
+'852211000001102,Ventide Rotahaler (GlaxoSmithKline UK Ltd),21011000500
+'2668111000001105,Ventide Rotahaler (GlaxoSmithKline UK Ltd),21011000500
+'4259111000001100,Intal Spinhaler (Sanofi),21011000300
+'4259311000001103,Intal Spinhaler (Sanofi),21011000300
+'36049211000001106,Ipratropium bromide 20micrograms/dose breath actuated inhaler,301020
+'1264411000001106,Ipratropium bromide 20micrograms/dose breath actuated inhaler,301020
+'351411000001106,Atrovent 20micrograms/dose Autohaler (Boehringer Ingelheim Ltd),301020
+'2825611000001106,Atrovent 20micrograms/dose Autohaler (Boehringer Ingelheim Ltd),301020
+'36049311000001103,Ipratropium bromide 20micrograms/dose inhaler,301020
+'1151011000001107,Ipratropium bromide 20micrograms/dose inhaler,301020
+'24011000001103,Atrovent 20micrograms/dose inhaler (Boehringer Ingelheim Ltd),301020
+'2826911000001107,Atrovent 20micrograms/dose inhaler (Boehringer Ingelheim Ltd),301020
+'5255211000001100,Atrovent 20micrograms/dose inhaler (Waymade Healthcare Plc),
+'5255311000001108,Atrovent 20micrograms/dose inhaler (Waymade Healthcare Plc),
+'5281611000001108,Atrovent 20micrograms/dose inhaler (Dowelhurst Ltd),
+'5281711000001104,Atrovent 20micrograms/dose inhaler (Dowelhurst Ltd),
+'5297911000001106,Ipratropium 20micrograms/dose inhaler (Dowelhurst Ltd),
+'5298011000001108,Ipratropium 20micrograms/dose inhaler (Dowelhurst Ltd),
+'320244004,Salmeterol 25micrograms/dose inhaler,
+'1048111000001108,Salmeterol 25micrograms/dose inhaler,301011
+'4840011000001103,Salmeterol 25micrograms/dose inhaler,301011
+'408911000001105,Serevent 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd),301011
+'2826211000001103,Serevent 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd),301011
+'4840111000001102,Serevent 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd),301011
+'5275011000001108,Salmeterol 25micrograms/dose inhaler (Waymade Healthcare Plc),
+'5275111000001109,Salmeterol 25micrograms/dose inhaler (Waymade Healthcare Plc),
+'5275311000001106,Serevent 25micrograms/dose inhaler (Waymade Healthcare Plc),
+'5275411000001104,Serevent 25micrograms/dose inhaler (Waymade Healthcare Plc),
+'5315611000001101,Salmeterol 25micrograms/dose inhaler (Dowelhurst Ltd),
+'5315811000001102,Salmeterol 25micrograms/dose inhaler (Dowelhurst Ltd),
+'5320411000001102,Serevent 25micrograms/dose inhaler (Dowelhurst Ltd),
+'5320511000001103,Serevent 25micrograms/dose inhaler (Dowelhurst Ltd),
+'35926711000001101,Sodium cromoglicate 5mg/dose inhaler,303010
+'1222111000001104,Sodium cromoglicate 5mg/dose inhaler,303010
+'533311000001100,Intal 5mg/dose inhaler (Aventis Pharma),303010
+'2826811000001102,Intal 5mg/dose inhaler (Aventis Pharma),303010
+'725311000001102,Cromogen 5mg/dose inhaler (Teva UK Ltd),303010
+'2827011000001106,Cromogen 5mg/dose inhaler (Teva UK Ltd),303010
+'5269711000001103,Intal 5mg/dose inhaler (Waymade Healthcare Plc),
+'5269911000001101,Intal 5mg/dose inhaler (Waymade Healthcare Plc),
+'5297311000001105,Intal 5mg/dose inhaler (Dowelhurst Ltd),
+'5297411000001103,Intal 5mg/dose inhaler (Dowelhurst Ltd),
+'5464611000001107,Sodium cromoglicate 5mg/dose inhaler (Dowelhurst Ltd),
+'5464811000001106,Sodium cromoglicate 5mg/dose inhaler (Dowelhurst Ltd),
+'35926611000001105,Sodium cromoglicate 5mg/dose breath actuated inhaler,303010
+'1293711000001100,Sodium cromoglicate 5mg/dose breath actuated inhaler,303010
+'377511000001101,Cromogen 5mg/dose Easi-Breathe inhaler (Teva UK Ltd),303010
+'2827311000001109,Cromogen 5mg/dose Easi-Breathe inhaler (Teva UK Ltd),303010
+'36049411000001105,Ipratropium bromide 40micrograms/dose inhaler,301020
+'1314811000001104,Ipratropium bromide 40micrograms/dose inhaler,301020
+'347611000001103,Atrovent Forte 40micrograms/dose inhaler (Boehringer Ingelheim Ltd),301020
+'2827511000001103,Atrovent Forte 40micrograms/dose inhaler (Boehringer Ingelheim Ltd),301020
+'320618008,Fluticasone 50micrograms/dose inhaler CFC free,
+'1226011000001101,Fluticasone 50micrograms/dose inhaler CFC free,302000
+'726611000001102,Flixotide 50micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),302000
+'2829311000001104,Flixotide 50micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),302000
+'10855011000001109,Flixotide 50micrograms/dose Evohaler (Waymade Healthcare Plc),
+'10855111000001105,Flixotide 50micrograms/dose Evohaler (Waymade Healthcare Plc),
+'17505711000001109,Flixotide 50micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'17505811000001101,Flixotide 50micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'18058211000001105,Flixotide 50micrograms/dose Evohaler (Lexon (UK) Ltd),
+'18058311000001102,Flixotide 50micrograms/dose Evohaler (Lexon (UK) Ltd),
+'18579211000001101,Flixotide 50micrograms/dose Evohaler (DE Pharmaceuticals),
+'18579311000001109,Flixotide 50micrograms/dose Evohaler (DE Pharmaceuticals),
+'320274007,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,
+'1094711000001109,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,302000
+'453611000001102,Seretide 50 Evohaler (GlaxoSmithKline UK Ltd),302000
+'2830011000001108,Seretide 50 Evohaler (GlaxoSmithKline UK Ltd),302000
+'16728511000001101,Seretide 50 Evohaler (Waymade Healthcare Plc),
+'16728611000001102,Seretide 50 Evohaler (Waymade Healthcare Plc),
+'35594011000001105,Combisal 25micrograms/dose / 50micrograms/dose inhaler (Aspire Pharma Ltd),302000
+'35594111000001106,Combisal 25micrograms/dose / 50micrograms/dose inhaler (Aspire Pharma Ltd),302000
+'320275008,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,
+'1282011000001105,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,302000
+'810211000001105,Seretide 125 Evohaler (GlaxoSmithKline UK Ltd),302000
+'2830811000001102,Seretide 125 Evohaler (GlaxoSmithKline UK Ltd),302000
+'10473211000001109,Seretide 125 Evohaler (Dowelhurst Ltd),
+'10473311000001101,Seretide 125 Evohaler (Dowelhurst Ltd),
+'10512011000001109,Seretide 125 Evohaler (Waymade Healthcare Plc),
+'10512111000001105,Seretide 125 Evohaler (Waymade Healthcare Plc),
+'13998111000001104,Seretide 125 Evohaler (DE Pharmaceuticals),
+'13998211000001105,Seretide 125 Evohaler (DE Pharmaceuticals),
+'14705411000001106,Seretide 125 Evohaler (Sigma Pharmaceuticals Plc),
+'14705511000001105,Seretide 125 Evohaler (Sigma Pharmaceuticals Plc),
+'16241311000001105,Seretide 125 Evohaler (Lexon (UK) Ltd),
+'16241411000001103,Seretide 125 Evohaler (Lexon (UK) Ltd),
+'17440711000001101,Seretide 125 Evohaler (Mawdsley-Brooks & Company Ltd),
+'17440811000001109,Seretide 125 Evohaler (Mawdsley-Brooks & Company Ltd),
+'18185611000001104,Seretide 125 Evohaler (Necessity Supplies Ltd),
+'18185711000001108,Seretide 125 Evohaler (Necessity Supplies Ltd),
+'29782111000001107,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Mylan),302000
+'29782211000001101,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Mylan),302000
+'34023611000001101,Sereflo 25micrograms/dose / 125micrograms/dose inhaler (Cipla EU Ltd),302000
+'34023711000001105,Sereflo 25micrograms/dose / 125micrograms/dose inhaler (Cipla EU Ltd),302000
+'34215311000001107,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler (Sandoz Ltd),302000
+'34215411000001100,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler (Sandoz Ltd),302000
+'34677011000001107,Aloflute 25micrograms/dose / 125micrograms/dose inhaler (Mylan),302000
+'34677111000001108,Aloflute 25micrograms/dose / 125micrograms/dose inhaler (Mylan),302000
+'35594211000001100,Combisal 25micrograms/dose / 125micrograms/dose inhaler (Aspire Pharma Ltd),302000
+'35594311000001108,Combisal 25micrograms/dose / 125micrograms/dose inhaler (Aspire Pharma Ltd),302000
+'320200002,Terbutaline 10mg/ml nebuliser liquid,301011
+'1050811000001101,Terbutaline 10mg/ml nebuliser liquid,301011
+'2831711000001102,Bricanyl 10mg/ml respirator solution (AstraZeneca UK Ltd),301011
+'2831811000001105,Bricanyl 10mg/ml respirator solution (AstraZeneca UK Ltd),301011
+'320614005,Fluticasone 125micrograms/dose inhaler CFC free,
+'1041211000001106,Fluticasone 125micrograms/dose inhaler CFC free,302000
+'983411000001106,Fluticasone 125micrograms/dose inhaler CFC free,302000
+'398511000001105,Flixotide 125micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),302000
+'2830911000001107,Flixotide 125micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),302000
+'2831111000001103,Flixotide 125micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),302000
+'5267111000001105,Flixotide 125micrograms/dose Evohaler (Waymade Healthcare Plc),
+'5267211000001104,Flixotide 125micrograms/dose Evohaler (Waymade Healthcare Plc),
+'5293111000001100,Flixotide 125micrograms/dose Evohaler (Dowelhurst Ltd),
+'5293211000001106,Flixotide 125micrograms/dose Evohaler (Dowelhurst Ltd),
+'5350911000001109,Fluticasone 125micrograms/dose Evohaler (Dowelhurst Ltd),
+'5351011000001101,Fluticasone 125micrograms/dose Evohaler (Dowelhurst Ltd),
+'13877511000001107,Flixotide 125micrograms/dose Evohaler (DE Pharmaceuticals),
+'13877611000001106,Flixotide 125micrograms/dose Evohaler (DE Pharmaceuticals),
+'14234511000001108,Flixotide 125micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),
+'14234611000001107,Flixotide 125micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),
+'16180011000001105,Flixotide 125micrograms/dose Evohaler (Lexon (UK) Ltd),
+'16180111000001106,Flixotide 125micrograms/dose Evohaler (Lexon (UK) Ltd),
+'16545311000001104,Flixotide 125micrograms/dose Evohaler (Stephar (U.K.) Ltd),
+'16545411000001106,Flixotide 125micrograms/dose Evohaler (Stephar (U.K.) Ltd),
+'16579811000001105,Flixotide 125micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'16579911000001100,Flixotide 125micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'18262211000001106,Flixotide 125micrograms/dose Evohaler (Necessity Supplies Ltd),
+'18262311000001103,Flixotide 125micrograms/dose Evohaler (Necessity Supplies Ltd),
+'320276009,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,
+'1229311000001105,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free,302000
+'539811000001106,Seretide 250 Evohaler (GlaxoSmithKline UK Ltd),302000
+'2831011000001104,Seretide 250 Evohaler (GlaxoSmithKline UK Ltd),302000
+'5276811000001105,Seretide 250 Evohaler (Waymade Healthcare Plc),
+'5276911000001100,Seretide 250 Evohaler (Waymade Healthcare Plc),
+'10472811000001102,Seretide 250 Evohaler (Dowelhurst Ltd),
+'10473011000001104,Seretide 250 Evohaler (Dowelhurst Ltd),
+'13998411000001109,Seretide 250 Evohaler (DE Pharmaceuticals),
+'13998511000001108,Seretide 250 Evohaler (DE Pharmaceuticals),
+'14705811000001108,Seretide 250 Evohaler (Sigma Pharmaceuticals Plc),
+'14705911000001103,Seretide 250 Evohaler (Sigma Pharmaceuticals Plc),
+'16241511000001104,Seretide 250 Evohaler (Lexon (UK) Ltd),
+'16241611000001100,Seretide 250 Evohaler (Lexon (UK) Ltd),
+'16588111000001101,Seretide 250 Evohaler (Stephar (U.K.) Ltd),
+'16588211000001107,Seretide 250 Evohaler (Stephar (U.K.) Ltd),
+'17440911000001104,Seretide 250 Evohaler (Mawdsley-Brooks & Company Ltd),
+'17441011000001107,Seretide 250 Evohaler (Mawdsley-Brooks & Company Ltd),
+'18185811000001100,Seretide 250 Evohaler (Necessity Supplies Ltd),
+'18185911000001105,Seretide 250 Evohaler (Necessity Supplies Ltd),
+'29782511000001103,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Mylan),302000
+'29782611000001104,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Mylan),302000
+'30253911000001100,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'30254011000001102,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'34023811000001102,Sereflo 25micrograms/dose / 250micrograms/dose inhaler (Cipla EU Ltd),302000
+'34023911000001107,Sereflo 25micrograms/dose / 250micrograms/dose inhaler (Cipla EU Ltd),302000
+'34215511000001101,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Sandoz Ltd),302000
+'34215611000001102,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Sandoz Ltd),302000
+'34675711000001103,Aloflute 25micrograms/dose / 250micrograms/dose inhaler (Mylan),302000
+'34675911000001101,Aloflute 25micrograms/dose / 250micrograms/dose inhaler (Mylan),302000
+'35594411000001101,Combisal 25micrograms/dose / 250micrograms/dose inhaler (Aspire Pharma Ltd),302000
+'35594511000001102,Combisal 25micrograms/dose / 250micrograms/dose inhaler (Aspire Pharma Ltd),302000
+'320615006,Fluticasone 250micrograms/dose inhaler CFC free,
+'1245411000001104,Fluticasone 250micrograms/dose inhaler CFC free,302000
+'971711000001105,Fluticasone 250micrograms/dose inhaler CFC free,302000
+'2831211000001109,Flixotide 250micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),302000
+'2831311000001101,Flixotide 250micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),302000
+'2831411000001108,Flixotide 250micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),302000
+'5268111000001106,Flixotide 250micrograms/dose Evohaler (Waymade Healthcare Plc),
+'5268211000001100,Flixotide 250micrograms/dose Evohaler (Waymade Healthcare Plc),
+'5294611000001106,Flixotide 250micrograms/dose Evohaler (Dowelhurst Ltd),
+'5294711000001102,Flixotide 250micrograms/dose Evohaler (Dowelhurst Ltd),
+'5351111000001100,Fluticasone 250micrograms/dose Evohaler (Dowelhurst Ltd),
+'5351311000001103,Fluticasone 250micrograms/dose Evohaler (Dowelhurst Ltd),
+'13877711000001102,Flixotide 250micrograms/dose Evohaler (DE Pharmaceuticals),
+'13877911000001100,Flixotide 250micrograms/dose Evohaler (DE Pharmaceuticals),
+'14234711000001103,Flixotide 250micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),
+'14234811000001106,Flixotide 250micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),
+'14238811000001103,Fluticasone 250micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),
+'14238911000001108,Fluticasone 250micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),
+'16180211000001100,Flixotide 250micrograms/dose Evohaler (Lexon (UK) Ltd),
+'16180311000001108,Flixotide 250micrograms/dose Evohaler (Lexon (UK) Ltd),
+'16545511000001105,Flixotide 250micrograms/dose Evohaler (Stephar (U.K.) Ltd),
+'16545611000001109,Flixotide 250micrograms/dose Evohaler (Stephar (U.K.) Ltd),
+'16580011000001104,Flixotide 250micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'16580111000001103,Flixotide 250micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'16581211000001103,Fluticasone 250micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'16581311000001106,Fluticasone 250micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'18262411000001105,Flixotide 250micrograms/dose Evohaler (Necessity Supplies Ltd),
+'18262511000001109,Flixotide 250micrograms/dose Evohaler (Necessity Supplies Ltd),
+'36066611000001106,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler,301040
+'2922711000001100,Fenoterol 100micrograms/dose / Ipratropium 40micrograms/dose inhaler,301040
+'2923111000001107,Duovent inhaler (Boehringer Ingelheim Ltd),301040
+'2923211000001101,Duovent inhaler (Boehringer Ingelheim Ltd),301040
+'35912511000001101,Budesonide 200micrograms/dose inhaler,302000
+'2923911000001105,Budesonide 200micrograms/dose inhaler,302000
+'11361011000001105,Budesonide 200micrograms/dose inhaler,302000
+'2924111000001109,Pulmicort 200micrograms/dose inhaler (AstraZeneca UK Ltd),302000
+'2924211000001103,Pulmicort 200micrograms/dose inhaler (AstraZeneca UK Ltd),302000
+'11361111000001106,Pulmicort 200micrograms/dose inhaler (AstraZeneca UK Ltd),302000
+'36022911000001105,Oxitropium bromide 100micrograms/dose inhaler,301020
+'2943711000001106,Oxitropium bromide 100micrograms/dose inhaler,301020
+'2944211000001101,Oxivent 100micrograms/dose inhaler (Boehringer Ingelheim Ltd),301020
+'2945611000001103,Oxivent 100micrograms/dose inhaler (Boehringer Ingelheim Ltd),301020
+'5272411000001107,Oxivent 100micrograms/dose inhaler (Waymade Healthcare Plc),
+'5272511000001106,Oxivent 100micrograms/dose inhaler (Waymade Healthcare Plc),
+'36022811000001100,Oxitropium bromide 100micrograms/dose breath actuated inhaler,301020
+'2947111000001102,Oxitropium bromide 100micrograms/dose breath actuated inhaler,301020
+'2947411000001107,Oxivent 100micrograms/dose Autohaler (Boehringer Ingelheim Ltd),301020
+'2947511000001106,Oxivent 100micrograms/dose Autohaler (Boehringer Ingelheim Ltd),301020
+'36066711000001102,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dose breath actuated inhaler,301040
+'2963311000001103,Fenoterol 100micrograms/dose / Ipratropium bromide 40micrograms/dose breath actuated inhaler,301040
+'2964011000001104,Duovent Autohaler (Boehringer Ingelheim Ltd),301040
+'2964311000001101,Duovent Autohaler (Boehringer Ingelheim Ltd),301040
+'35936711000001103,Salbutamol 200microgram inhalation powder blisters with device,301011
+'3080111000001106,Salbutamol 200microgram inhalation powder blisters with device,301011
+'3080211000001100,Salbutamol 200microgram inhalation powder blisters with device,301011
+'3080311000001108,Salbutamol 200microgram inhalation powder blisters with device,301011
+'3080411000001101,Ventodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3080711000001107,Ventodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3081811000001107,Ventodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3082311000001107,Ventodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'35938011000001101,Salmeterol 50microgram inhalation powder blisters,301011
+'3081711000001104,Salmeterol 50microgram inhalation powder blisters,301011
+'3082011000001109,Salmeterol 50microgram inhalation powder blisters,301011
+'3082411000001100,Serevent 50microgram disks (GlaxoSmithKline UK Ltd),301011
+'3082511000001101,Serevent 50microgram disks (GlaxoSmithKline UK Ltd),301011
+'3082611000001102,Serevent 50microgram disks (GlaxoSmithKline UK Ltd),301011
+'5321611000001109,Serevent 50microgram disks (Dowelhurst Ltd),
+'5321811000001108,Serevent 50microgram disks (Dowelhurst Ltd),
+'35936911000001101,Salbutamol 400microgram inhalation powder blisters with device,301011
+'3082711000001106,Salbutamol 400microgram inhalation powder blisters with device,301011
+'3082811000001103,Salbutamol 400microgram inhalation powder blisters with device,301011
+'3082911000001108,Salbutamol 400microgram inhalation powder blisters with device,301011
+'3083011000001100,Ventodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3083411000001109,Ventodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3083511000001108,Ventodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3083811000001106,Ventodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'35937811000001108,Salmeterol 50microgram inhalation powder blisters with device,301011
+'3083611000001107,Salmeterol 50microgram inhalation powder blisters with device,301011
+'3083711000001103,Salmeterol 50microgram inhalation powder blisters with device,301011
+'3083911000001101,Salmeterol 50microgram inhalation powder blisters with device,301011
+'3084011000001103,Serevent 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3084111000001102,Serevent 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3084211000001108,Serevent 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'3084311000001100,Serevent 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),301011
+'5321111000001101,Serevent 50microgram disks with Diskhaler (Dowelhurst Ltd),
+'5321511000001105,Serevent 50microgram disks with Diskhaler (Dowelhurst Ltd),
+'5323811000001107,Salmeterol 50microgram Diskhaler (Dowelhurst Ltd),
+'5324011000001104,Salmeterol 50microgram Diskhaler (Dowelhurst Ltd),
+'35936611000001107,Salbutamol 200microgram inhalation powder blisters,301011
+'3085611000001106,Salbutamol 200microgram inhalation powder blisters,301011
+'3085811000001105,Salbutamol 200microgram inhalation powder blisters,301011
+'3086111000001109,Ventodisks 200microgram (GlaxoSmithKline UK Ltd),301011
+'3086611000001101,Ventodisks 200microgram (GlaxoSmithKline UK Ltd),301011
+'3086911000001107,Ventodisks 200microgram (GlaxoSmithKline UK Ltd),301011
+'35907611000001101,Beclometasone 100microgram inhalation powder blisters,302000
+'3085711000001102,Beclometasone 100microgram inhalation powder blisters,302000
+'3085911000001100,Beclometasone 100microgram inhalation powder blisters,302000
+'3086011000001108,Becodisks 100microgram (GlaxoSmithKline UK Ltd),302000
+'3086211000001103,Becodisks 100microgram (GlaxoSmithKline UK Ltd),302000
+'3086511000001100,Becodisks 100microgram (GlaxoSmithKline UK Ltd),302000
+'35907711000001105,Beclometasone 100microgram inhalation powder blisters with device,302000
+'3087411000001102,Beclometasone 100microgram inhalation powder blisters with device,302000
+'3087611000001104,Beclometasone 100microgram inhalation powder blisters with device,302000
+'3087911000001105,Beclometasone 100microgram inhalation powder blisters with device,302000
+'3088611000001100,Becodisks 100microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3089111000001101,Becodisks 100microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3091011000001102,Becodisks 100microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3091511000001105,Becodisks 100microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'35936811000001106,Salbutamol 400microgram inhalation powder blisters,301011
+'3088311000001105,Salbutamol 400microgram inhalation powder blisters,301011
+'3088411000001103,Salbutamol 400microgram inhalation powder blisters,301011
+'3089011000001102,Ventodisks 400microgram (GlaxoSmithKline UK Ltd),301011
+'3090311000001109,Ventodisks 400microgram (GlaxoSmithKline UK Ltd),301011
+'3091311000001104,Ventodisks 400microgram (GlaxoSmithKline UK Ltd),301011
+'35908311000001107,Beclometasone 200microgram inhalation powder blisters with device,302000
+'3094411000001108,Beclometasone 200microgram inhalation powder blisters with device,302000
+'3094711000001102,Beclometasone 200microgram inhalation powder blisters with device,302000
+'3095211000001105,Beclometasone 200microgram inhalation powder blisters with device,302000
+'3096011000001109,Becodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3098511000001100,Becodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3098111000001109,Becodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3098011000001108,Becodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'36059911000001104,Fluticasone propionate 50microgram inhalation powder blisters with device,302000
+'3096411000001100,Fluticasone propionate 50microgram inhalation powder blisters with device,302000
+'3096811000001103,Fluticasone propionate 50microgram inhalation powder blisters with device,302000
+'3097711000001109,Flixotide 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3097811000001101,Flixotide 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3097911000001106,Flixotide 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'36059311000001100,Fluticasone propionate 100microgram inhalation powder blisters with device,302000
+'3098211000001103,Fluticasone propionate 100microgram inhalation powder blisters with device,302000
+'3098311000001106,Fluticasone propionate 100microgram inhalation powder blisters with device,302000
+'3098611000001101,Flixotide 100microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3098811000001102,Flixotide 100microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3098911000001107,Flixotide 100microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'35908211000001104,Beclometasone 200microgram inhalation powder blisters,302000
+'3099311000001100,Beclometasone 200microgram inhalation powder blisters,302000
+'3099511000001106,Beclometasone 200microgram inhalation powder blisters,302000
+'3099811000001109,Becodisks 200microgram (GlaxoSmithKline UK Ltd),302000
+'3100011000001103,Becodisks 200microgram (GlaxoSmithKline UK Ltd),302000
+'3100511000001106,Becodisks 200microgram (GlaxoSmithKline UK Ltd),302000
+'10838111000001101,Becodisks 200microgram (Waymade Healthcare Plc),
+'10838211000001107,Becodisks 200microgram (Waymade Healthcare Plc),
+'16140411000001105,Becodisks 200microgram (Lexon (UK) Ltd),
+'16140711000001104,Becodisks 200microgram (Lexon (UK) Ltd),
+'16277711000001101,Becodisks 200microgram (Mawdsley-Brooks & Company Ltd),
+'16277911000001104,Becodisks 200microgram (Mawdsley-Brooks & Company Ltd),
+'17600111000001105,Becodisks 200microgram (Necessity Supplies Ltd),
+'17600211000001104,Becodisks 200microgram (Necessity Supplies Ltd),
+'36059211000001108,Fluticasone propionate 100microgram inhalation powder blisters,302000
+'3099211000001108,Fluticasone propionate 100microgram inhalation powder blisters,302000
+'3099411000001107,Fluticasone propionate 100microgram inhalation powder blisters,302000
+'3099611000001105,Flixotide 100microgram disks (GlaxoSmithKline UK Ltd),302000
+'3099711000001101,Flixotide 100microgram disks (GlaxoSmithKline UK Ltd),302000
+'3099911000001104,Flixotide 100microgram disks (GlaxoSmithKline UK Ltd),302000
+'5265811000001108,Flixotide 100microgram disks (Waymade Healthcare Plc),
+'5266011000001106,Flixotide 100microgram disks (Waymade Healthcare Plc),
+'5292311000001108,Flixotide 100microgram disks (Dowelhurst Ltd),
+'5292411000001101,Flixotide 100microgram disks (Dowelhurst Ltd),
+'14235311000001103,Flixotide 100microgram disks (Sigma Pharmaceuticals Plc),
+'14235411000001105,Flixotide 100microgram disks (Sigma Pharmaceuticals Plc),
+'36059811000001109,Fluticasone propionate 50microgram inhalation powder blisters,302000
+'3100211000001108,Fluticasone propionate 50microgram inhalation powder blisters,302000
+'3100411000001107,Fluticasone propionate 50microgram inhalation powder blisters,302000
+'3100811000001109,Flixotide 50microgram disks (GlaxoSmithKline UK Ltd),302000
+'3101011000001107,Flixotide 50microgram disks (GlaxoSmithKline UK Ltd),302000
+'3101611000001100,Flixotide 50microgram disks (GlaxoSmithKline UK Ltd),302000
+'35909011000001104,Beclometasone 400microgram inhalation powder blisters with device,302000
+'3101211000001102,Beclometasone 400microgram inhalation powder blisters with device,302000
+'3101511000001104,Beclometasone 400microgram inhalation powder blisters with device,302000
+'3101711000001109,Beclometasone 400microgram inhalation powder blisters with device,302000
+'3101811000001101,Beclometasone 400microgram inhalation powder blisters with device,302000
+'3102211000001109,Becodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3102511000001107,Becodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3102611000001106,Becodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3102811000001105,Becodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3103211000001103,Becloforte 400microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3103411000001104,Becloforte 400microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'36059511000001106,Fluticasone propionate 250microgram inhalation powder blisters,302000
+'3103011000001108,Fluticasone propionate 250microgram inhalation powder blisters,302000
+'3103111000001109,Fluticasone propionate 250microgram inhalation powder blisters,302000
+'3103511000001100,Flixotide 250microgram disks (GlaxoSmithKline UK Ltd),302000
+'3103711000001105,Flixotide 250microgram disks (GlaxoSmithKline UK Ltd),302000
+'3104711000001107,Flixotide 250microgram disks (GlaxoSmithKline UK Ltd),302000
+'5266111000001107,Flixotide 250microgram disks (Waymade Healthcare Plc),
+'5266311000001109,Flixotide 250microgram disks (Waymade Healthcare Plc),
+'5294311000001101,Flixotide 250microgram disks (Dowelhurst Ltd),
+'5294511000001107,Flixotide 250microgram disks (Dowelhurst Ltd),
+'10521011000001105,Flixotide 250microgram disks (Dowelhurst Ltd),
+'13877111000001103,Flixotide 250microgram disks (DE Pharmaceuticals),
+'13877211000001109,Flixotide 250microgram disks (DE Pharmaceuticals),
+'14235511000001109,Flixotide 250microgram disks (Sigma Pharmaceuticals Plc),
+'14235611000001108,Flixotide 250microgram disks (Sigma Pharmaceuticals Plc),
+'18262611000001108,Flixotide 250microgram disks (Necessity Supplies Ltd),
+'18262711000001104,Flixotide 250microgram disks (Necessity Supplies Ltd),
+'35908911000001108,Beclometasone 400microgram inhalation powder blisters,302000
+'3104311000001108,Beclometasone 400microgram inhalation powder blisters,302000
+'3104411000001101,Beclometasone 400microgram inhalation powder blisters,302000
+'3104511000001102,Beclometasone 400microgram inhalation powder blisters,302000
+'3104911000001109,Becodisks 400microgram (GlaxoSmithKline UK Ltd),302000
+'3105011000001109,Becodisks 400microgram (GlaxoSmithKline UK Ltd),302000
+'3105111000001105,Becodisks 400microgram (GlaxoSmithKline UK Ltd),302000
+'3105311000001107,Becloforte 400microgram disks (GlaxoSmithKline UK Ltd),302000
+'3105611000001102,Becloforte 400microgram disks (GlaxoSmithKline UK Ltd),302000
+'10838311000001104,Becodisks 400microgram (Waymade Healthcare Plc),
+'10838411000001106,Becodisks 400microgram (Waymade Healthcare Plc),
+'16140911000001102,Becodisks 400microgram (Lexon (UK) Ltd),
+'16141011000001105,Becodisks 400microgram (Lexon (UK) Ltd),
+'16278211000001107,Becodisks 400microgram (Mawdsley-Brooks & Company Ltd),
+'16278311000001104,Becodisks 400microgram (Mawdsley-Brooks & Company Ltd),
+'17600311000001107,Becodisks 400microgram (Necessity Supplies Ltd),
+'17600411000001100,Becodisks 400microgram (Necessity Supplies Ltd),
+'36059411000001107,Fluticasone propionate 250microgram inhalation powder blisters with device,302000
+'3105211000001104,Fluticasone propionate 250microgram inhalation powder blisters with device,302000
+'3105411000001100,Fluticasone propionate 250microgram inhalation powder blisters with device,302000
+'3105511000001101,Fluticasone propionate 250microgram inhalation powder blisters with device,302000
+'3106311000001102,Flixotide 250microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3106811000001106,Flixotide 250microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3106511000001108,Flixotide 250microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3107211000001107,Flixotide 250microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'36059711000001101,Fluticasone propionate 500microgram inhalation powder blisters with device,302000
+'3107911000001103,Fluticasone propionate 500microgram inhalation powder blisters with device,302000
+'3108011000001101,Fluticasone propionate 500microgram inhalation powder blisters with device,302000
+'3108211000001106,Fluticasone propionate 500microgram inhalation powder blisters with device,302000
+'3108411000001105,Flixotide 500microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3108811000001107,Flixotide 500microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3108911000001102,Flixotide 500microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'3109311000001109,Flixotide 500microgram disks with Diskhaler (GlaxoSmithKline UK Ltd),302000
+'36059611000001105,Fluticasone propionate 500microgram inhalation powder blisters,302000
+'3110111000001104,Fluticasone propionate 500microgram inhalation powder blisters,302000
+'3110211000001105,Fluticasone propionate 500microgram inhalation powder blisters,302000
+'3110511000001108,Flixotide 500microgram disks (GlaxoSmithKline UK Ltd),302000
+'3110711000001103,Flixotide 500microgram disks (GlaxoSmithKline UK Ltd),302000
+'3110811000001106,Flixotide 500microgram disks (GlaxoSmithKline UK Ltd),302000
+'5266711000001108,Flixotide 500microgram disks (Waymade Healthcare Plc),
+'5266911000001105,Flixotide 500microgram disks (Waymade Healthcare Plc),
+'5295011000001100,Flixotide 500microgram disks (Dowelhurst Ltd),
+'5295111000001104,Flixotide 500microgram disks (Dowelhurst Ltd),
+'13877311000001101,Flixotide 500microgram disks (DE Pharmaceuticals),
+'14235811000001107,Flixotide 500microgram disks (DE Pharmaceuticals),
+'13877411000001108,Flixotide 500microgram disks (DE Pharmaceuticals),
+'14235711000001104,Flixotide 500microgram disks (Sigma Pharmaceuticals Plc),
+'14236011000001105,Flixotide 500microgram disks (Sigma Pharmaceuticals Plc),
+'18263011000001105,Flixotide 500microgram disks (Necessity Supplies Ltd),
+'18263111000001106,Flixotide 500microgram disks (Necessity Supplies Ltd),
+'35909411000001108,Beclometasone 50micrograms/dose dry powder inhaler,302000
+'3111811000001103,Beclometasone 50micrograms/dose dry powder inhaler,302000
+'3111911000001108,Asmabec 50 Clickhaler (Focus Pharmaceuticals Ltd),302000
+'3112011000001101,Asmabec 50 Clickhaler (Focus Pharmaceuticals Ltd),302000
+'35908011000001109,Beclometasone 100micrograms/dose dry powder inhaler,302000
+'3112111000001100,Beclometasone 100micrograms/dose dry powder inhaler,302000
+'3112211000001106,Beclometasone 100micrograms/dose dry powder inhaler,302000
+'3112511000001109,Asmabec 100 Clickhaler (Focus Pharmaceuticals Ltd),302000
+'3112711000001104,Asmabec 100 Clickhaler (Focus Pharmaceuticals Ltd),302000
+'3112911000001102,Pulvinal Beclometasone Dipropionate 100micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'3113011000001105,Pulvinal Beclometasone Dipropionate 100micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'35912411000001100,Budesonide 200micrograms/dose dry powder inhaler,302000
+'3112311000001103,Budesonide 200micrograms/dose dry powder inhaler,302000
+'10074711000001106,Budesonide 200micrograms/dose dry powder inhaler,302000
+'3112411000001105,Pulmicort 200 Turbohaler (AstraZeneca UK Ltd),302000
+'3112611000001108,Pulmicort 200 Turbohaler (AstraZeneca UK Ltd),302000
+'5273611000001100,Pulmicort 200 Turbohaler (Waymade Healthcare Plc),
+'5273811000001101,Pulmicort 200 Turbohaler (Waymade Healthcare Plc),
+'5313011000001107,Pulmicort 200 Turbohaler (Dowelhurst Ltd),
+'5313211000001102,Pulmicort 200 Turbohaler (Dowelhurst Ltd),
+'5350211000001100,Budesonide 200micrograms/dose Turbohaler (Dowelhurst Ltd),
+'5350311000001108,Budesonide 200micrograms/dose Turbohaler (Dowelhurst Ltd),
+'10074611000001102,Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'10074811000001103,Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'13953111000001103,Pulmicort 200 Turbohaler (DE Pharmaceuticals),
+'13953411000001108,Pulmicort 200 Turbohaler (DE Pharmaceuticals),
+'14390411000001100,Pulmicort 200 Turbohaler (Sigma Pharmaceuticals Plc),
+'14390511000001101,Pulmicort 200 Turbohaler (Sigma Pharmaceuticals Plc),
+'16230211000001107,Pulmicort 200 Turbohaler (Lexon (UK) Ltd),
+'16230311000001104,Pulmicort 200 Turbohaler (Lexon (UK) Ltd),
+'17425811000001100,Pulmicort 200 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17425911000001105,Pulmicort 200 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'18175111000001101,Pulmicort 200 Turbohaler (Necessity Supplies Ltd),
+'18175211000001107,Pulmicort 200 Turbohaler (Necessity Supplies Ltd),
+'35912111000001105,Budesonide 100micrograms/dose dry powder inhaler,302000
+'3112811000001107,Budesonide 100micrograms/dose dry powder inhaler,302000
+'3113111000001106,Pulmicort 100 Turbohaler (AstraZeneca UK Ltd),302000
+'3113211000001100,Pulmicort 100 Turbohaler (AstraZeneca UK Ltd),302000
+'5273211000001102,Pulmicort 100 Turbohaler (Waymade Healthcare Plc),
+'5273411000001103,Pulmicort 100 Turbohaler (Waymade Healthcare Plc),
+'5311011000001106,Pulmicort 100 Turbohaler (Dowelhurst Ltd),
+'5311111000001107,Pulmicort 100 Turbohaler (Dowelhurst Ltd),
+'5350011000001105,Budesonide 100micrograms/dose Turbohaler (Dowelhurst Ltd),
+'5350111000001106,Budesonide 100micrograms/dose Turbohaler (Dowelhurst Ltd),
+'10073911000001106,Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'10074011000001109,Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'13952811000001102,Pulmicort 100 Turbohaler (DE Pharmaceuticals),
+'13952911000001107,Pulmicort 100 Turbohaler (DE Pharmaceuticals),
+'14390211000001104,Pulmicort 100 Turbohaler (Sigma Pharmaceuticals Plc),
+'14390311000001107,Pulmicort 100 Turbohaler (Sigma Pharmaceuticals Plc),
+'16230011000001102,Pulmicort 100 Turbohaler (Lexon (UK) Ltd),
+'16230111000001101,Pulmicort 100 Turbohaler (Lexon (UK) Ltd),
+'17425611000001104,Pulmicort 100 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17425711000001108,Pulmicort 100 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'18174911000001102,Pulmicort 100 Turbohaler (Necessity Supplies Ltd),
+'18175011000001102,Pulmicort 100 Turbohaler (Necessity Supplies Ltd),
+'35908411000001100,Beclometasone 200micrograms/dose dry powder inhaler,302000
+'3113311000001108,Beclometasone 200micrograms/dose dry powder inhaler,302000
+'9525011000001109,Beclometasone 200micrograms/dose dry powder inhaler,302000
+'3113411000001101,Pulvinal Beclometasone Dipropionate 200micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'3113511000001102,Pulvinal Beclometasone Dipropionate 200micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'9525111000001105,Easyhaler Beclometasone 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'9525211000001104,Easyhaler Beclometasone 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'35908711000001106,Beclometasone 250micrograms/dose dry powder inhaler,302000
+'3174011000001103,Beclometasone 250micrograms/dose dry powder inhaler,302000
+'3174111000001102,Asmabec 250 Clickhaler (Focus Pharmaceuticals Ltd),302000
+'3174211000001108,Asmabec 250 Clickhaler (Focus Pharmaceuticals Ltd),302000
+'35909111000001103,Beclometasone 400micrograms/dose dry powder inhaler,302000
+'3174711000001101,Beclometasone 400micrograms/dose dry powder inhaler,302000
+'3175111000001103,Pulvinal Beclometasone Dipropionate 400micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'3175311000001101,Pulvinal Beclometasone Dipropionate 400micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'35909511000001107,Beclometasone 50micrograms/dose inhaler,302000
+'3175011000001104,Beclometasone 50micrograms/dose inhaler,302000
+'4841211000001102,Beclometasone 50micrograms/dose inhaler,302000
+'3175211000001109,Filair 50 inhaler (Meda Pharmaceuticals Ltd),302000
+'3175411000001108,Filair 50 inhaler (Meda Pharmaceuticals Ltd),302000
+'3175711000001102,Beclometasone 50micrograms/dose inhaler (A A H Pharmaceuticals Ltd),302000
+'3175811000001105,Beclometasone 50micrograms/dose inhaler (A A H Pharmaceuticals Ltd),302000
+'3175911000001100,Beclometasone 50micrograms/dose inhaler (Mylan),302000
+'3176011000001108,Beclometasone 50micrograms/dose inhaler (Mylan),302000
+'3176211000001103,Becotide 50 inhaler (GlaxoSmithKline UK Ltd),302000
+'3176311000001106,Becotide 50 inhaler (GlaxoSmithKline UK Ltd),302000
+'4841511000001104,Becotide 50 inhaler (GlaxoSmithKline UK Ltd),302000
+'3176411000001104,Beclazone 50 inhaler (Teva UK Ltd),302000
+'3176511000001100,Beclazone 50 inhaler (Teva UK Ltd),302000
+'3176711000001105,Beclometasone 50micrograms/dose inhaler (Kent Pharmaceuticals Ltd),302000
+'3176911000001107,Beclometasone 50micrograms/dose inhaler (Kent Pharmaceuticals Ltd),302000
+'3177111000001107,Beclometasone 50micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd),302000
+'3177211000001101,Beclometasone 50micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd),302000
+'4773611000001100,Beclometasone 50micrograms/dose inhaler (Teva UK Ltd),302000
+'4773711000001109,Beclometasone 50micrograms/dose inhaler (Teva UK Ltd),302000
+'5256811000001107,Becotide 50 inhaler (Waymade Healthcare Plc),
+'5256911000001102,Becotide 50 inhaler (Waymade Healthcare Plc),
+'5284711000001101,Becotide 50 inhaler (Dowelhurst Ltd),
+'5284811000001109,Becotide 50 inhaler (Dowelhurst Ltd),
+'11400011000001108,Beclometasone 50micrograms/dose inhaler (Almus Pharmaceuticals Ltd),302000
+'11400111000001109,Beclometasone 50micrograms/dose inhaler (Almus Pharmaceuticals Ltd),302000
+'17793411000001101,Beclometasone 50micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd),302000
+'17793811000001104,Beclometasone 50micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd),302000
+'35908111000001105,Beclometasone 100micrograms/dose inhaler CFC free,302000
+'3175511000001107,Beclometasone 100micrograms/dose inhaler CFC free,302000
+'3175611000001106,Qvar 100 inhaler (Teva UK Ltd),302000
+'3176111000001109,Qvar 100 inhaler (Teva UK Ltd),302000
+'10618211000001109,Clenil Modulite 100micrograms/dose inhaler (Chiesi Ltd),302000
+'10618411000001108,Clenil Modulite 100micrograms/dose inhaler (Chiesi Ltd),302000
+'13954711000001100,Qvar 100 inhaler (DE Pharmaceuticals),
+'13954811000001108,Qvar 100 inhaler (DE Pharmaceuticals),
+'14616611000001107,Qvar 100 inhaler (Sigma Pharmaceuticals Plc),
+'14616711000001103,Qvar 100 inhaler (Sigma Pharmaceuticals Plc),
+'15884311000001105,Qvar 100 inhaler (Waymade Healthcare Plc),
+'15884411000001103,Qvar 100 inhaler (Waymade Healthcare Plc),
+'17427011000001104,Qvar 100 inhaler (Mawdsley-Brooks & Company Ltd),
+'17427111000001103,Qvar 100 inhaler (Mawdsley-Brooks & Company Ltd),
+'19737311000001104,Clenil Modulite 100micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),
+'19737411000001106,Clenil Modulite 100micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),
+'35430311000001103,Kelhale 100micrograms/dose inhaler (Cipla EU Ltd),302000
+'35430411000001105,Kelhale 100micrograms/dose inhaler (Cipla EU Ltd),302000
+'36603611000001108,Soprobec 100micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'36603711000001104,Soprobec 100micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'35909611000001106,Beclometasone 50micrograms/dose inhaler CFC free,302000
+'3176611000001101,Beclometasone 50micrograms/dose inhaler CFC free,302000
+'3176811000001102,Qvar 50 inhaler (Teva UK Ltd),302000
+'3177011000001106,Qvar 50 inhaler (Teva UK Ltd),302000
+'10617711000001103,Clenil Modulite 50micrograms/dose inhaler (Chiesi Ltd),302000
+'10617911000001101,Clenil Modulite 50micrograms/dose inhaler (Chiesi Ltd),302000
+'17426811000001108,Qvar 50 inhaler (Mawdsley-Brooks & Company Ltd),
+'17426911000001103,Qvar 50 inhaler (Mawdsley-Brooks & Company Ltd),
+'18608911000001101,Qvar 50 inhaler (DE Pharmaceuticals),
+'18609011000001105,Qvar 50 inhaler (DE Pharmaceuticals),
+'19737111000001101,Clenil Modulite 50micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),
+'19737211000001107,Clenil Modulite 50micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),
+'35430111000001100,Kelhale 50micrograms/dose inhaler (Cipla EU Ltd),302000
+'35430211000001106,Kelhale 50micrograms/dose inhaler (Cipla EU Ltd),302000
+'36603211000001106,Soprobec 50micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'36603311000001103,Soprobec 50micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'35909311000001101,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,302000
+'3177311000001109,Beclometasone 50micrograms/dose breath actuated inhaler CFC free,302000
+'3177411000001102,Qvar 50 Autohaler (Teva UK Ltd),302000
+'3177511000001103,Qvar 50 Autohaler (Teva UK Ltd),302000
+'8159511000001107,Qvar 50micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),302000
+'8159611000001106,Qvar 50micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),302000
+'18059011000001105,Qvar 50micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc),
+'18059111000001106,Qvar 50micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc),
+'18608311000001102,Qvar 50 Autohaler (DE Pharmaceuticals),
+'18608411000001109,Qvar 50 Autohaler (DE Pharmaceuticals),
+'18608711000001103,Qvar 50micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals),
+'18608811000001106,Qvar 50micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals),
+'27991211000001105,Qvar 50micrograms/dose Easi-Breathe inhaler (Waymade Healthcare Plc),
+'27991311000001102,Qvar 50micrograms/dose Easi-Breathe inhaler (Waymade Healthcare Plc),
+'35907911000001107,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,302000
+'3177611000001104,Beclometasone 100micrograms/dose breath actuated inhaler CFC free,302000
+'3177711000001108,Qvar 100 Autohaler (Teva UK Ltd),302000
+'3178011000001107,Qvar 100 Autohaler (Teva UK Ltd),302000
+'8159711000001102,Qvar 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),302000
+'8159811000001105,Qvar 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),302000
+'14616311000001102,Qvar 100 Autohaler (Sigma Pharmaceuticals Plc),
+'14616411000001109,Qvar 100 Autohaler (Sigma Pharmaceuticals Plc),
+'14755711000001106,Qvar 100 Autohaler (Waymade Healthcare Plc),
+'14755811000001103,Qvar 100 Autohaler (Waymade Healthcare Plc),
+'15418911000001106,Qvar 100micrograms/dose Easi-Breathe inhaler (Waymade Healthcare Plc),
+'15419011000001102,Qvar 100micrograms/dose Easi-Breathe inhaler (Waymade Healthcare Plc),
+'16232011000001103,Qvar 100 Autohaler (Lexon (UK) Ltd),
+'16232111000001102,Qvar 100 Autohaler (Lexon (UK) Ltd),
+'17427211000001109,Qvar 100 Autohaler (Mawdsley-Brooks & Company Ltd),
+'17427311000001101,Qvar 100 Autohaler (Mawdsley-Brooks & Company Ltd),
+'18058811000001106,Qvar 100micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc),
+'18058911000001101,Qvar 100micrograms/dose Easi-Breathe inhaler (Sigma Pharmaceuticals Plc),
+'18295511000001100,Qvar 100 Autohaler (Stephar (U.K.) Ltd),
+'18295611000001101,Qvar 100 Autohaler (Stephar (U.K.) Ltd),
+'18608111000001104,Qvar 100 Autohaler (DE Pharmaceuticals),
+'18608211000001105,Qvar 100 Autohaler (DE Pharmaceuticals),
+'18608511000001108,Qvar 100micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals),
+'18608611000001107,Qvar 100micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals),
+'320537007,Beclometasone 100micrograms/dose inhaler,302000
+'3177811000001100,Beclometasone 100micrograms/dose inhaler,302000
+'4842111000001103,Beclometasone 100micrograms/dose inhaler,302000
+'3177911000001105,Filair 100 inhaler (Meda Pharmaceuticals Ltd),302000
+'3178111000001108,Filair 100 inhaler (Meda Pharmaceuticals Ltd),302000
+'3178211000001102,Beclometasone 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd),302000
+'3178311000001105,Beclometasone 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd),302000
+'3178411000001103,Beclometasone 100micrograms/dose inhaler (Mylan),302000
+'3178511000001104,Beclometasone 100micrograms/dose inhaler (Mylan),302000
+'3178611000001100,Becotide 100 inhaler (GlaxoSmithKline UK Ltd),302000
+'3178711000001109,Becotide 100 inhaler (GlaxoSmithKline UK Ltd),302000
+'4842311000001101,Becotide 100 inhaler (GlaxoSmithKline UK Ltd),302000
+'3178811000001101,Beclazone 100 inhaler (Teva UK Ltd),302000
+'3178911000001106,Beclazone 100 inhaler (Teva UK Ltd),302000
+'3179011000001102,Beclometasone 100micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd),302000
+'3179111000001101,Beclometasone 100micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd),302000
+'4773811000001101,Beclometasone 100micrograms/dose inhaler (Teva UK Ltd),302000
+'4773911000001106,Beclometasone 100micrograms/dose inhaler (Teva UK Ltd),302000
+'5256611000001108,Becotide 100 inhaler (Waymade Healthcare Plc),
+'5256711000001104,Becotide 100 inhaler (Waymade Healthcare Plc),
+'7379111000001102,Beclometasone 100micrograms/dose inhaler (Kent Pharmaceuticals Ltd),302000
+'7379211000001108,Beclometasone 100micrograms/dose inhaler (Kent Pharmaceuticals Ltd),302000
+'11400511000001100,Beclometasone 100micrograms/dose inhaler (Almus Pharmaceuticals Ltd),302000
+'11400611000001101,Beclometasone 100micrograms/dose inhaler (Almus Pharmaceuticals Ltd),302000
+'17794111000001108,Beclometasone 100micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd),302000
+'17794211000001102,Beclometasone 100micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd),302000
+'35908511000001101,Beclometasone 200micrograms/dose inhaler,302000
+'3179211000001107,Beclometasone 200micrograms/dose inhaler,302000
+'3179311000001104,Becotide 200 inhaler (GlaxoSmithKline UK Ltd),302000
+'3179411000001106,Becotide 200 inhaler (GlaxoSmithKline UK Ltd),302000
+'3179511000001105,Beclazone 200 inhaler (Teva UK Ltd),302000
+'3179611000001109,Beclazone 200 inhaler (Teva UK Ltd),302000
+'4332611000001107,Beclometasone 200micrograms/dose inhaler (A A H Pharmaceuticals Ltd),302000
+'4332711000001103,Beclometasone 200micrograms/dose inhaler (A A H Pharmaceuticals Ltd),302000
+'10844511000001104,Becotide 200 inhaler (Waymade Healthcare Plc),
+'10844611000001100,Becotide 200 inhaler (Waymade Healthcare Plc),
+'15052211000001104,Beclometasone 200micrograms/dose inhaler (Sigma Pharmaceuticals Plc),302000
+'15052311000001107,Beclometasone 200micrograms/dose inhaler (Sigma Pharmaceuticals Plc),302000
+'35908811000001103,Beclometasone 250micrograms/dose inhaler,302000
+'3179711000001100,Beclometasone 250micrograms/dose inhaler,302000
+'4839911000001109,Beclometasone 250micrograms/dose inhaler,302000
+'5255911000001109,Beclometasone 250micrograms/dose inhaler,302000
+'3179811000001108,Beclometasone 250micrograms/dose inhaler (A A H Pharmaceuticals Ltd),302000
+'3179911000001103,Beclometasone 250micrograms/dose inhaler (A A H Pharmaceuticals Ltd),302000
+'3180011000001102,Beclometasone 250micrograms/dose inhaler (Mylan),302000
+'3180111000001101,Beclometasone 250micrograms/dose inhaler (Mylan),302000
+'3180211000001107,Becloforte 250micrograms/dose inhaler (GlaxoSmithKline UK Ltd),302000
+'3180411000001106,Becloforte 250micrograms/dose inhaler (GlaxoSmithKline UK Ltd),302000
+'4840211000001108,Becloforte 250micrograms/dose inhaler (GlaxoSmithKline UK Ltd),302000
+'3180611000001109,Beclazone 250 inhaler (Teva UK Ltd),302000
+'3180711000001100,Beclazone 250 inhaler (Teva UK Ltd),302000
+'3180911000001103,Beclometasone 250micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd),302000
+'3181011000001106,Beclometasone 250micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd),302000
+'4753511000001101,Filair Forte 250micrograms/dose inhaler (Meda Pharmaceuticals Ltd),302000
+'4753611000001102,Filair Forte 250micrograms/dose inhaler (Meda Pharmaceuticals Ltd),302000
+'4774011000001109,Beclometasone 250micrograms/dose inhaler (Teva UK Ltd),302000
+'4774111000001105,Beclometasone 250micrograms/dose inhaler (Teva UK Ltd),302000
+'5256011000001101,Becloforte 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'5256211000001106,Becloforte 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'5256111000001100,Becloforte 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'5282711000001106,Becloforte 250micrograms/dose inhaler (Dowelhurst Ltd),
+'5283111000001104,Becloforte 250micrograms/dose inhaler (Dowelhurst Ltd),
+'5282911000001108,Becloforte 250micrograms/dose inhaler (Dowelhurst Ltd),
+'7379311000001100,Beclometasone 250micrograms/dose inhaler (Kent Pharmaceuticals Ltd),302000
+'7379411000001107,Beclometasone 250micrograms/dose inhaler (Kent Pharmaceuticals Ltd),302000
+'11400811000001102,Beclometasone 250micrograms/dose inhaler (Almus Pharmaceuticals Ltd),302000
+'11400911000001107,Beclometasone 250micrograms/dose inhaler (Almus Pharmaceuticals Ltd),302000
+'17833911000001100,Beclometasone 250micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd),302000
+'17834011000001102,Beclometasone 250micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd),302000
+'35907811000001102,Beclometasone 100micrograms/dose breath actuated inhaler,302000
+'3181311000001109,Beclometasone 100micrograms/dose breath actuated inhaler,302000
+'3181411000001102,AeroBec 100 Autohaler (Meda Pharmaceuticals Ltd),302000
+'3181511000001103,AeroBec 100 Autohaler (Meda Pharmaceuticals Ltd),302000
+'3181711000001108,Beclazone 100 Easi-Breathe inhaler (Teva UK Ltd),302000
+'3181911000001105,Beclazone 100 Easi-Breathe inhaler (Teva UK Ltd),302000
+'13180411000001105,Beclazone 100 Easi-Breathe inhaler (Dowelhurst Ltd),
+'13180511000001109,Beclazone 100 Easi-Breathe inhaler (Dowelhurst Ltd),
+'35908611000001102,Beclometasone 250micrograms/dose breath actuated inhaler,302000
+'3182311000001100,Beclometasone 250micrograms/dose breath actuated inhaler,302000
+'3182411000001107,AeroBec Forte 250 Autohaler (Meda Pharmaceuticals Ltd),302000
+'3182511000001106,AeroBec Forte 250 Autohaler (Meda Pharmaceuticals Ltd),302000
+'3182611000001105,Beclazone 250 Easi-Breathe inhaler (Teva UK Ltd),302000
+'3182711000001101,Beclazone 250 Easi-Breathe inhaler (Teva UK Ltd),302000
+'13180811000001107,Beclazone 250 Easi-Breathe inhaler (Dowelhurst Ltd),
+'13180911000001102,Beclazone 250 Easi-Breathe inhaler (Dowelhurst Ltd),
+'320602002,Fluticasone propionate 50micrograms/dose dry powder inhaler,
+'3183711000001109,Fluticasone propionate 50micrograms/dose dry powder inhaler,302000
+'3183811000001101,Flixotide 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),302000
+'3183911000001106,Flixotide 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),302000
+'5295211000001105,Flixotide 50micrograms/dose Accuhaler (Dowelhurst Ltd),
+'5295311000001102,Flixotide 50micrograms/dose Accuhaler (Dowelhurst Ltd),
+'13841811000001102,Flixotide 50micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'13841911000001107,Flixotide 50micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'14234311000001102,Flixotide 50micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'14234411000001109,Flixotide 50micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'16579011000001104,Flixotide 50micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'16579111000001103,Flixotide 50micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'19612611000001105,Flixotide 50micrograms/dose Accuhaler (DE Pharmaceuticals),
+'19612711000001101,Flixotide 50micrograms/dose Accuhaler (DE Pharmaceuticals),
+'320603007,Fluticasone propionate 100micrograms/dose dry powder inhaler,
+'3184011000001109,Fluticasone propionate 100micrograms/dose dry powder inhaler,302000
+'3184311000001107,Flixotide 100micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),302000
+'3184411000001100,Flixotide 100micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),302000
+'5261111000001103,Flixotide 100micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'5261711000001102,Flixotide 100micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'5290911000001105,Flixotide 100micrograms/dose Accuhaler (Dowelhurst Ltd),
+'5291111000001101,Flixotide 100micrograms/dose Accuhaler (Dowelhurst Ltd),
+'13876511000001105,Flixotide 100micrograms/dose Accuhaler (DE Pharmaceuticals),
+'13876611000001109,Flixotide 100micrograms/dose Accuhaler (DE Pharmaceuticals),
+'14233711000001100,Flixotide 100micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'14233811000001108,Flixotide 100micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'16579211000001109,Flixotide 100micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'16579311000001101,Flixotide 100micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'18261611000001102,Flixotide 100micrograms/dose Accuhaler (Necessity Supplies Ltd),
+'18261711000001106,Flixotide 100micrograms/dose Accuhaler (Necessity Supplies Ltd),
+'19965011000001108,Flixotide 100micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'19965111000001109,Flixotide 100micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'36565411000001101,Fluticasone propionate 250micrograms/dose dry powder inhaler,302000
+'3184811000001103,Fluticasone propionate 250micrograms/dose dry powder inhaler,302000
+'3184911000001108,Flixotide 250micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),302000
+'3185011000001108,Flixotide 250micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),302000
+'5261411000001108,Flixotide 250micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'5261511000001107,Flixotide 250micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'5293811000001107,Flixotide 250micrograms/dose Accuhaler (Dowelhurst Ltd),
+'5294011000001104,Flixotide 250micrograms/dose Accuhaler (Dowelhurst Ltd),
+'13876711000001100,Flixotide 250micrograms/dose Accuhaler (DE Pharmaceuticals),
+'13876811000001108,Flixotide 250micrograms/dose Accuhaler (DE Pharmaceuticals),
+'14234111000001104,Flixotide 250micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'14234211000001105,Flixotide 250micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'16179611000001103,Flixotide 250micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'16179711000001107,Flixotide 250micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'16545111000001101,Flixotide 250micrograms/dose Accuhaler (Stephar (U.K.) Ltd),
+'16545211000001107,Flixotide 250micrograms/dose Accuhaler (Stephar (U.K.) Ltd),
+'16579411000001108,Flixotide 250micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'16579511000001107,Flixotide 250micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'18261811000001103,Flixotide 250micrograms/dose Accuhaler (Necessity Supplies Ltd),
+'18261911000001108,Flixotide 250micrograms/dose Accuhaler (Necessity Supplies Ltd),
+'320605000,Fluticasone propionate 500micrograms/dose dry powder inhaler,
+'3185111000001109,Fluticasone propionate 500micrograms/dose dry powder inhaler,302000
+'3185211000001103,Flixotide 500micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),302000
+'3185411000001104,Flixotide 500micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),302000
+'5262211000001102,Flixotide 500micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'5262411000001103,Flixotide 500micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'5294811000001105,Flixotide 500micrograms/dose Accuhaler (Dowelhurst Ltd),
+'5294911000001100,Flixotide 500micrograms/dose Accuhaler (Dowelhurst Ltd),
+'13876911000001103,Flixotide 500micrograms/dose Accuhaler (DE Pharmaceuticals),
+'13877011000001104,Flixotide 500micrograms/dose Accuhaler (DE Pharmaceuticals),
+'14233911000001103,Flixotide 500micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'14234011000001100,Flixotide 500micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'16179811000001104,Flixotide 500micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'16179911000001109,Flixotide 500micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'16579611000001106,Flixotide 500micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'16579711000001102,Flixotide 500micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'18262011000001101,Flixotide 500micrograms/dose Accuhaler (Necessity Supplies Ltd),
+'18262111000001100,Flixotide 500micrograms/dose Accuhaler (Necessity Supplies Ltd),
+'35937211000001107,Salbutamol 95micrograms/dose dry powder inhaler,301011
+'3185911000001107,Salbutamol 95micrograms/dose dry powder inhaler,301011
+'3186011000001104,Asmasal 95micrograms/dose Clickhaler (Focus Pharmaceuticals Ltd),301011
+'3186111000001103,Asmasal 95micrograms/dose Clickhaler (Focus Pharmaceuticals Ltd),301011
+'320277000,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,
+'3186811000001105,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,302000
+'3186911000001100,Seretide 100 Accuhaler (GlaxoSmithKline UK Ltd),302000
+'3187011000001101,Seretide 100 Accuhaler (GlaxoSmithKline UK Ltd),302000
+'5275611000001101,Seretide 100 Accuhaler (Waymade Healthcare Plc),
+'5275711000001105,Seretide 100 Accuhaler (Waymade Healthcare Plc),
+'5317111000001100,Seretide 100 Accuhaler (Dowelhurst Ltd),
+'5317211000001106,Seretide 100 Accuhaler (Dowelhurst Ltd),
+'13997111000001100,Seretide 100 Accuhaler (DE Pharmaceuticals),
+'13997311000001103,Seretide 100 Accuhaler (DE Pharmaceuticals),
+'14674111000001100,Seretide 100 Accuhaler (Sigma Pharmaceuticals Plc),
+'14674211000001106,Seretide 100 Accuhaler (Sigma Pharmaceuticals Plc),
+'16240811000001109,Seretide 100 Accuhaler (Lexon (UK) Ltd),
+'16240911000001104,Seretide 100 Accuhaler (Lexon (UK) Ltd),
+'16587911000001104,Seretide 100 Accuhaler (Stephar (U.K.) Ltd),
+'16588011000001102,Seretide 100 Accuhaler (Stephar (U.K.) Ltd),
+'17440111000001102,Seretide 100 Accuhaler (Mawdsley-Brooks & Company Ltd),
+'17440211000001108,Seretide 100 Accuhaler (Mawdsley-Brooks & Company Ltd),
+'18185011000001106,Seretide 100 Accuhaler (Necessity Supplies Ltd),
+'18185111000001107,Seretide 100 Accuhaler (Necessity Supplies Ltd),
+'320279002,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,
+'3187111000001100,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,302000
+'3187211000001106,Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd),302000
+'3187311000001103,Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd),302000
+'5276011000001104,Seretide 250 Accuhaler (Waymade Healthcare Plc),
+'5276111000001103,Seretide 250 Accuhaler (Waymade Healthcare Plc),
+'5317311000001103,Seretide 250 Accuhaler (Dowelhurst Ltd),
+'5317411000001105,Seretide 250 Accuhaler (Dowelhurst Ltd),
+'13997511000001109,Seretide 250 Accuhaler (DE Pharmaceuticals),
+'13997611000001108,Seretide 250 Accuhaler (DE Pharmaceuticals),
+'14674711000001104,Seretide 250 Accuhaler (Sigma Pharmaceuticals Plc),
+'14674811000001107,Seretide 250 Accuhaler (Sigma Pharmaceuticals Plc),
+'16241011000001107,Seretide 250 Accuhaler (Lexon (UK) Ltd),
+'16244511000001102,Seretide 250 Accuhaler (Lexon (UK) Ltd),
+'17440311000001100,Seretide 250 Accuhaler (Mawdsley-Brooks & Company Ltd),
+'17440411000001107,Seretide 250 Accuhaler (Mawdsley-Brooks & Company Ltd),
+'18185211000001101,Seretide 250 Accuhaler (Necessity Supplies Ltd),
+'18185311000001109,Seretide 250 Accuhaler (Necessity Supplies Ltd),
+'35515511000001100,Fusacomb Easyhaler 50micrograms/dose / 250micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'35515611000001101,Fusacomb Easyhaler 50micrograms/dose / 250micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'320280004,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,
+'3188111000001104,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler,302000
+'3188311000001102,Seretide 500 Accuhaler (GlaxoSmithKline UK Ltd),302000
+'3188411000001109,Seretide 500 Accuhaler (GlaxoSmithKline UK Ltd),302000
+'5276211000001109,Seretide 500 Accuhaler (Waymade Healthcare Plc),
+'5276311000001101,Seretide 500 Accuhaler (Waymade Healthcare Plc),
+'5317511000001109,Seretide 500 Accuhaler (Dowelhurst Ltd),
+'5317611000001108,Seretide 500 Accuhaler (Dowelhurst Ltd),
+'14705211000001107,Seretide 500 Accuhaler (Sigma Pharmaceuticals Plc),
+'14705311000001104,Seretide 500 Accuhaler (Sigma Pharmaceuticals Plc),
+'16241111000001108,Seretide 500 Accuhaler (Lexon (UK) Ltd),
+'16241211000001102,Seretide 500 Accuhaler (Lexon (UK) Ltd),
+'17440511000001106,Seretide 500 Accuhaler (Mawdsley-Brooks & Company Ltd),
+'17440611000001105,Seretide 500 Accuhaler (Mawdsley-Brooks & Company Ltd),
+'18185411000001102,Seretide 500 Accuhaler (Necessity Supplies Ltd),
+'18185511000001103,Seretide 500 Accuhaler (Necessity Supplies Ltd),
+'18611411000001104,Seretide 500 Accuhaler (DE Pharmaceuticals),
+'18611511000001100,Seretide 500 Accuhaler (DE Pharmaceuticals),
+'30950311000001106,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Sandoz Ltd),302000
+'30950411000001104,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Sandoz Ltd),302000
+'31064811000001101,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler (A A H Pharmaceuticals Ltd),302000
+'31064911000001106,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler (A A H Pharmaceuticals Ltd),302000
+'33679711000001103,Aerivio Spiromax 50micrograms/dose / 500micrograms/dose dry powder inhaler (Teva UK Ltd),302000
+'33679811000001106,Aerivio Spiromax 50micrograms/dose / 500micrograms/dose dry powder inhaler (Teva UK Ltd),302000
+'35515311000001106,Fusacomb Easyhaler 50micrograms/dose / 500micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'35515411000001104,Fusacomb Easyhaler 50micrograms/dose / 500micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'36604711000001102,Stalpex 50micrograms/dose / 500micrograms/dose dry powder inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'36604911000001100,Stalpex 50micrograms/dose / 500micrograms/dose dry powder inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'320534000,Beclometasone 100microgram inhalation powder capsules,302000
+'3189211000001100,Beclometasone 100microgram inhalation powder capsules,302000
+'3189311000001108,Beclometasone 100microgram inhalation powder capsules,302000
+'5525211000001108,Beclometasone 100microgram inhalation powder capsules,302000
+'3189711000001107,Beclometasone 100 Cyclocaps (Teva UK Ltd),302000
+'3189911000001109,Beclometasone 100 Cyclocaps (Teva UK Ltd),302000
+'3190311000001103,Becotide 100microgram Rotacaps (GlaxoSmithKline UK Ltd),302000
+'3190511000001109,Becotide 100microgram Rotacaps (GlaxoSmithKline UK Ltd),302000
+'5525411000001107,Becotide 100microgram Rotacaps (Dowelhurst Ltd),
+'5525611000001105,Becotide 100microgram Rotacaps (Dowelhurst Ltd),
+'320535004,Beclometasone 200microgram inhalation powder capsules,302000
+'3191211000001100,Beclometasone 200microgram inhalation powder capsules,302000
+'3191311000001108,Beclometasone 200microgram inhalation powder capsules,302000
+'5256311000001103,Beclometasone 200microgram inhalation powder capsules,302000
+'5284511000001106,Beclometasone 200microgram inhalation powder capsules,302000
+'3192111000001101,Becotide 200microgram Rotacaps (GlaxoSmithKline UK Ltd),302000
+'3192311000001104,Becotide 200microgram Rotacaps (GlaxoSmithKline UK Ltd),302000
+'3192611000001109,Beclometasone 200 Cyclocaps (Teva UK Ltd),302000
+'3192811000001108,Beclometasone 200 Cyclocaps (Teva UK Ltd),302000
+'5256411000001105,Becotide 200microgram Rotacaps (Waymade Healthcare Plc),
+'5256511000001109,Becotide 200microgram Rotacaps (Waymade Healthcare Plc),
+'5284411000001107,Becotide 200microgram Rotacaps (Dowelhurst Ltd),
+'5284611000001105,Becotide 200microgram Rotacaps (Dowelhurst Ltd),
+'320520000,Beclometasone 400microgram inhalation powder capsules,302000
+'3193311000001109,Beclometasone 400microgram inhalation powder capsules,302000
+'3193611000001104,Beclometasone 400microgram inhalation powder capsules,302000
+'3194011000001108,Becotide 400microgram Rotacaps (GlaxoSmithKline UK Ltd),302000
+'3194211000001103,Becotide 400microgram Rotacaps (GlaxoSmithKline UK Ltd),302000
+'3194511000001100,Beclometasone 400 Cyclocaps (Teva UK Ltd),302000
+'3194911000001107,Beclometasone 400 Cyclocaps (Teva UK Ltd),302000
+'3432911000001109,Budesonide 200microgram inhalation powder capsules,302000
+'3196911000001104,Budesonide 200microgram inhalation powder capsules,302000
+'3197211000001105,Budesonide 200 Cyclocaps (Teva UK Ltd),302000
+'3197511000001108,Budesonide 200 Cyclocaps (Teva UK Ltd),302000
+'3433011000001101,Budesonide 400microgram inhalation powder capsules,302000
+'3197911000001101,Budesonide 400microgram inhalation powder capsules,302000
+'3198411000001108,Budesonide 400 Cyclocaps (Teva UK Ltd),302000
+'3198611000001106,Budesonide 400 Cyclocaps (Teva UK Ltd),302000
+'35369511000001103,Salbutamol 200microgram / Beclometasone 100microgram inhalation powder capsules,302000
+'3200211000001106,Salbutamol 200microgram / Beclometasone 100microgram inhalation powder capsules,302000
+'3200511000001109,Ventide Paediatric Rotacaps (GlaxoSmithKline UK Ltd),302000
+'3200811000001107,Ventide Paediatric Rotacaps (GlaxoSmithKline UK Ltd),302000
+'320543009,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules,302000
+'3201711000001107,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules,302000
+'3202211000001107,Ventide Rotacaps (GlaxoSmithKline UK Ltd),302000
+'3202311000001104,Ventide Rotacaps (GlaxoSmithKline UK Ltd),302000
+'320644008,Sodium cromoglicate 20mg inhalation powder capsules,303010
+'3203511000001103,Sodium cromoglicate 20mg inhalation powder capsules,303010
+'3203811000001100,Intal 20mg Spincaps (Sanofi),303010
+'3204111000001109,Intal 20mg Spincaps (Sanofi),303010
+'11159411000001101,Intal 20mg Spincaps (Waymade Healthcare Plc),
+'11159511000001102,Intal 20mg Spincaps (Waymade Healthcare Plc),
+'12626211000001108,Formoterol 12microgram inhalation powder capsules with device,301011
+'3205611000001100,Formoterol 12microgram inhalation powder capsules with device,301011
+'7392011000001103,Formoterol 12microgram inhalation powder capsules with device,301011
+'3206811000001109,Foradil 12microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301011
+'3209511000001101,Foradil 12microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301011
+'7392711000001101,Foradil 12microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301011
+'14239811000001105,Foradil 12microgram inhalation powder capsules with device (Sigma Pharmaceuticals Plc),
+'14239911000001100,Foradil 12microgram inhalation powder capsules with device (Sigma Pharmaceuticals Plc),
+'16545911000001103,Foradil 12microgram inhalation powder capsules with device (Stephar (U.K.) Ltd),
+'16546011000001106,Foradil 12microgram inhalation powder capsules with device (Stephar (U.K.) Ltd),
+'16581611000001101,Foradil 12microgram inhalation powder capsules with device (Mawdsley-Brooks & Company Ltd),
+'16581711000001105,Foradil 12microgram inhalation powder capsules with device (Mawdsley-Brooks & Company Ltd),
+'18058411000001109,Foradil 12microgram inhalation powder capsules with device (Lexon (UK) Ltd),
+'18058511000001108,Foradil 12microgram inhalation powder capsules with device (Lexon (UK) Ltd),
+'21866011000001104,Foradil 12microgram inhalation powder capsules with device (Waymade Healthcare Plc),
+'21866111000001103,Foradil 12microgram inhalation powder capsules with device (Waymade Healthcare Plc),
+'320178003,Salbutamol 200microgram inhalation powder capsules,301011
+'3213211000001103,Salbutamol 200microgram inhalation powder capsules,301011
+'3213711000001105,Salbutamol 200microgram inhalation powder capsules,301011
+'5324611000001106,Salbutamol 200microgram inhalation powder capsules,301011
+'3214211000001100,Ventolin 200microgram Rotacaps (GlaxoSmithKline UK Ltd),301011
+'3214411000001101,Ventolin 200microgram Rotacaps (GlaxoSmithKline UK Ltd),301011
+'3214611000001103,Salbutamol 200 Cyclocaps (Teva UK Ltd),301011
+'3214911000001109,Salbutamol 200 Cyclocaps (Teva UK Ltd),301011
+'5324811000001105,Ventolin 200microgram Rotacaps (Dowelhurst Ltd),
+'5325011000001100,Ventolin 200microgram Rotacaps (Dowelhurst Ltd),
+'320151000,Salbutamol 100micrograms/dose breath actuated inhaler CFC free,
+'3213411000001104,Salbutamol 100micrograms/dose breath actuated inhaler CFC free,301011
+'3214311000001108,Airomir 100micrograms/dose Autohaler (Teva UK Ltd),301011
+'3214511000001102,Airomir 100micrograms/dose Autohaler (Teva UK Ltd),301011
+'3215311000001107,Salamol 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),301011
+'3215611000001102,Salamol 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd),301011
+'17438511000001108,Salamol 100micrograms/dose Easi-Breathe inhaler (Mawdsley-Brooks & Company Ltd),
+'17438611000001107,Salamol 100micrograms/dose Easi-Breathe inhaler (Mawdsley-Brooks & Company Ltd),
+'18610611000001106,Salamol 100micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals),
+'18610711000001102,Salamol 100micrograms/dose Easi-Breathe inhaler (DE Pharmaceuticals),
+'320179006,Salbutamol 400microgram inhalation powder capsules,301011
+'3217011000001102,Salbutamol 400microgram inhalation powder capsules,301011
+'3217111000001101,Salbutamol 400microgram inhalation powder capsules,301011
+'5582111000001102,Salbutamol 400microgram inhalation powder capsules,301011
+'3217611000001109,Salbutamol 400 Cyclocaps (Teva UK Ltd),301011
+'3217811000001108,Salbutamol 400 Cyclocaps (Teva UK Ltd),301011
+'3218011000001101,Ventolin 400microgram Rotacaps (GlaxoSmithKline UK Ltd),301011
+'3218111000001100,Ventolin 400microgram Rotacaps (GlaxoSmithKline UK Ltd),301011
+'5583011000001107,Ventolin 400microgram Rotacaps (Dowelhurst Ltd),
+'5583311000001105,Ventolin 400microgram Rotacaps (Dowelhurst Ltd),
+'35916311000001106,Terbutaline 500micrograms/dose dry powder inhaler,301011
+'3218211000001106,Terbutaline 500micrograms/dose dry powder inhaler,301011
+'5257811000001109,Terbutaline 500micrograms/dose dry powder inhaler,301011
+'36506811000001106,Terbutaline 500micrograms/dose dry powder inhaler,301011
+'3218311000001103,Bricanyl 500micrograms/dose Turbohaler (AstraZeneca UK Ltd),301011
+'3218411000001105,Bricanyl 500micrograms/dose Turbohaler (AstraZeneca UK Ltd),301011
+'36506911000001101,Bricanyl 500micrograms/dose Turbohaler (AstraZeneca UK Ltd),301011
+'5257911000001104,Bricanyl 500micrograms/dose Turbohaler (Waymade Healthcare Plc),
+'30042911000001101,Bricanyl 500micrograms/dose Turbohaler (Waymade Healthcare Plc),
+'5258011000001102,Bricanyl 500micrograms/dose Turbohaler (Waymade Healthcare Plc),
+'5285911000001100,Bricanyl 500micrograms/dose Turbohaler (Dowelhurst Ltd),
+'5286011000001108,Bricanyl 500micrograms/dose Turbohaler (Dowelhurst Ltd),
+'5323111000001100,Terbutaline 500micrograms/dose Turbohaler (Dowelhurst Ltd),
+'5323311000001103,Terbutaline 500micrograms/dose Turbohaler (Dowelhurst Ltd),
+'13837711000001100,Bricanyl 500micrograms/dose Turbohaler (DE Pharmaceuticals),
+'13837911000001103,Bricanyl 500micrograms/dose Turbohaler (DE Pharmaceuticals),
+'13991111000001107,Terbutaline 500micrograms/dose Turbohaler (DE Pharmaceuticals),
+'13991211000001101,Terbutaline 500micrograms/dose Turbohaler (DE Pharmaceuticals),
+'14662411000001107,Bricanyl 500micrograms/dose Turbohaler (Sigma Pharmaceuticals Plc),
+'14662511000001106,Bricanyl 500micrograms/dose Turbohaler (Sigma Pharmaceuticals Plc),
+'17602911000001107,Bricanyl 500micrograms/dose Turbohaler (Necessity Supplies Ltd),
+'17603011000001104,Bricanyl 500micrograms/dose Turbohaler (Necessity Supplies Ltd),
+'29980011000001104,Bricanyl 500micrograms/dose Turbohaler (Lexon (UK) Ltd),
+'29980111000001103,Bricanyl 500micrograms/dose Turbohaler (Lexon (UK) Ltd),
+'320347009,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials,301020
+'3220511000001104,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials,301020
+'3220811000001101,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials,301020
+'3221011000001103,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301020
+'3221311000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301020
+'3221411000001107,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301020
+'3221911000001104,Tropiovent 500micrograms/2ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),301020
+'3222111000001107,Tropiovent 500micrograms/2ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),301020
+'3222411000001102,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd),301020
+'3222511000001103,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd),301020
+'3222611000001104,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd),301020
+'3222711000001108,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (The Boots Company Plc),301020
+'3222811000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (The Boots Company Plc),301020
+'3222911000001105,Respontin 500micrograms/2ml Nebules (GlaxoSmithKline UK Ltd),301020
+'3223011000001102,Respontin 500micrograms/2ml Nebules (GlaxoSmithKline UK Ltd),301020
+'3223111000001101,Ipratropium 500micrograms/2ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),301020
+'3223311000001104,Ipratropium 500micrograms/2ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),301020
+'3223511000001105,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301020
+'3223611000001109,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301020
+'8097811000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),301020
+'8097911000001105,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),301020
+'9039811000001104,Ipratropium 500micrograms/2ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),301020
+'9039911000001109,Ipratropium 500micrograms/2ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),301020
+'9102111000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Teva UK Ltd),301020
+'9102211000001106,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Teva UK Ltd),301020
+'10453611000001109,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301020
+'10453711000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301020
+'11006311000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd),301020
+'11006411000001107,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd),301020
+'15214311000001101,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc),301020
+'15214411000001108,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc),301020
+'17933311000001107,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),301020
+'17933411000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),301020
+'21508411000001109,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Waymade Healthcare Plc),
+'29737011000001101,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Waymade Healthcare Plc),
+'21508511000001108,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Waymade Healthcare Plc),
+'21720011000001109,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Advanz Pharma),301020
+'21720111000001105,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Advanz Pharma),301020
+'22062511000001106,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),301020
+'22062611000001105,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),301020
+'23949311000001100,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals),301020
+'23949411000001107,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals),301020
+'29978911000001108,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Lexon (UK) Ltd),
+'29979011000001104,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Lexon (UK) Ltd),
+'29979111000001103,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Lexon (UK) Ltd),
+'30215011000001107,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),301020
+'30215111000001108,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),301020
+'320346000,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials,301020
+'3224711000001103,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials,301020
+'3225111000001100,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials,301020
+'3225311000001103,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301020
+'3225411000001105,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301020
+'3225511000001109,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301020
+'3225811000001107,Tropiovent 250micrograms/1ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),301020
+'3225911000001102,Tropiovent 250micrograms/1ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),301020
+'3226411000001101,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd),301020
+'3226611000001103,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd),301020
+'3226711000001107,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd),301020
+'3226811000001104,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (The Boots Company Plc),301020
+'3226911000001109,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (The Boots Company Plc),301020
+'3227011000001108,Respontin 250micrograms/1ml Nebules (GlaxoSmithKline UK Ltd),301020
+'3227111000001109,Respontin 250micrograms/1ml Nebules (GlaxoSmithKline UK Ltd),301020
+'3227211000001103,Ipratropium 250micrograms/1ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),301020
+'3227411000001104,Ipratropium 250micrograms/1ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),301020
+'3227511000001100,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301020
+'3227611000001101,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301020
+'3227711000001105,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301020
+'8097311000001109,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),301020
+'8097411000001102,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),301020
+'9039611000001103,Ipratropium 250micrograms/1ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),301020
+'9039711000001107,Ipratropium 250micrograms/1ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),301020
+'9101911000001108,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Teva UK Ltd),301020
+'9102011000001101,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Teva UK Ltd),301020
+'10453411000001106,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301020
+'10453511000001105,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301020
+'11006111000001102,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Accord Healthcare Ltd),301020
+'11006211000001108,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Accord Healthcare Ltd),301020
+'15213511000001109,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc),301020
+'15213811000001107,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc),301020
+'17933111000001105,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),301020
+'17933211000001104,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),301020
+'21719511000001100,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Advanz Pharma),301020
+'21719611000001101,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Advanz Pharma),301020
+'22062311000001100,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),301020
+'22062411000001107,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),301020
+'23949111000001102,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (DE Pharmaceuticals),301020
+'23949211000001108,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (DE Pharmaceuticals),301020
+'29978611000001102,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Lexon (UK) Ltd),
+'29978711000001106,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Lexon (UK) Ltd),
+'29978811000001103,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Lexon (UK) Ltd),
+'35912711000001106,Budesonide 400micrograms/dose dry powder inhaler,302000
+'3228111000001105,Budesonide 400micrograms/dose dry powder inhaler,302000
+'10074311000001107,Budesonide 400micrograms/dose dry powder inhaler,302000
+'3228711000001106,Pulmicort 400 Turbohaler (AstraZeneca UK Ltd),302000
+'3229111000001103,Pulmicort 400 Turbohaler (AstraZeneca UK Ltd),302000
+'5258111000001101,Budesonide 400micrograms/dose Turbohaler (Waymade Healthcare Plc),
+'5258211000001107,Budesonide 400micrograms/dose Turbohaler (Waymade Healthcare Plc),
+'5273911000001106,Pulmicort 400 Turbohaler (Waymade Healthcare Plc),
+'5274011000001109,Pulmicort 400 Turbohaler (Waymade Healthcare Plc),
+'5313811000001101,Pulmicort 400 Turbohaler (Dowelhurst Ltd),
+'5314511000001101,Pulmicort 400 Turbohaler (Dowelhurst Ltd),
+'5350411000001101,Budesonide 400micrograms/dose Turbohaler (Dowelhurst Ltd),
+'5350511000001102,Budesonide 400micrograms/dose Turbohaler (Dowelhurst Ltd),
+'10074411000001100,Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'10074511000001101,Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'13953611000001106,Pulmicort 400 Turbohaler (DE Pharmaceuticals),
+'13953811000001105,Pulmicort 400 Turbohaler (DE Pharmaceuticals),
+'14387611000001102,Pulmicort 400 Turbohaler (Sigma Pharmaceuticals Plc),
+'14388011000001105,Pulmicort 400 Turbohaler (Sigma Pharmaceuticals Plc),
+'16230511000001105,Pulmicort 400 Turbohaler (Lexon (UK) Ltd),
+'16230711000001100,Pulmicort 400 Turbohaler (Lexon (UK) Ltd),
+'16586711000001104,Pulmicort 400 Turbohaler (Stephar (U.K.) Ltd),
+'16586811000001107,Pulmicort 400 Turbohaler (Stephar (U.K.) Ltd),
+'17426011000001102,Pulmicort 400 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17426111000001101,Pulmicort 400 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'18175311000001104,Pulmicort 400 Turbohaler (Necessity Supplies Ltd),
+'18175511000001105,Pulmicort 400 Turbohaler (Necessity Supplies Ltd),
+'35926311000001100,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler,303010
+'3234911000001104,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler,303010
+'3235011000001104,Aerocrom inhaler (Castlemead Healthcare Ltd),303010
+'3235111000001103,Aerocrom inhaler (Castlemead Healthcare Ltd),303010
+'320339009,Ipratropium bromide 40microgram inhalation powder capsules,301020
+'3235611000001106,Ipratropium bromide 40microgram inhalation powder capsules,301020
+'3235911000001100,Atrovent 40microgram Aerocaps (Boehringer Ingelheim Ltd),301020
+'3236311000001106,Atrovent 40microgram Aerocaps (Boehringer Ingelheim Ltd),301020
+'320340006,Ipratropium bromide 40microgram inhalation powder capsules with device,301020
+'3236811000001102,Ipratropium bromide 40microgram inhalation powder capsules with device,301020
+'3238911000001106,Atrovent 40microgram Aerocaps with Aerohaler (Boehringer Ingelheim Ltd),301020
+'3239311000001104,Atrovent 40microgram Aerocaps with Aerohaler (Boehringer Ingelheim Ltd),301020
+'35912811000001103,Budesonide 50micrograms/dose inhaler,302000
+'3240611000001102,Budesonide 50micrograms/dose inhaler,302000
+'3240911000001108,Pulmicort LS 50micrograms/dose inhaler (AstraZeneca UK Ltd),302000
+'3241111000001104,Pulmicort LS 50micrograms/dose inhaler (AstraZeneca UK Ltd),302000
+'10527411000001109,Pulmicort LS 50micrograms/dose inhaler (Waymade Healthcare Plc),
+'10527511000001108,Pulmicort LS 50micrograms/dose inhaler (Waymade Healthcare Plc),
+'13961211000001104,Pulmicort LS 50micrograms/dose inhaler (DE Pharmaceuticals),
+'13961311000001107,Pulmicort LS 50micrograms/dose inhaler (DE Pharmaceuticals),
+'320263003,Formoterol 6micrograms/dose dry powder inhaler,
+'3243011000001104,Formoterol 6micrograms/dose dry powder inhaler,301011
+'3243511000001107,Oxis 6 Turbohaler (AstraZeneca UK Ltd),301011
+'3243911000001100,Oxis 6 Turbohaler (AstraZeneca UK Ltd),301011
+'5272211000001108,Oxis 6 Turbohaler (Waymade Healthcare Plc),
+'5272311000001100,Oxis 6 Turbohaler (Waymade Healthcare Plc),
+'5307711000001102,Oxis 6 Turbohaler (Dowelhurst Ltd),
+'5307911000001100,Oxis 6 Turbohaler (Dowelhurst Ltd),
+'13943811000001108,Oxis 6 Turbohaler (DE Pharmaceuticals),
+'13943911000001103,Oxis 6 Turbohaler (DE Pharmaceuticals),
+'14706311000001109,Oxis 6 Turbohaler (Sigma Pharmaceuticals Plc),
+'14706511000001103,Oxis 6 Turbohaler (Sigma Pharmaceuticals Plc),
+'16219211000001106,Oxis 6 Turbohaler (Lexon (UK) Ltd),
+'16219311000001103,Oxis 6 Turbohaler (Lexon (UK) Ltd),
+'17344411000001108,Oxis 6 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17344511000001107,Oxis 6 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17616311000001108,Oxis 6 Turbohaler (Necessity Supplies Ltd),
+'17616511000001102,Oxis 6 Turbohaler (Necessity Supplies Ltd),
+'320264009,Formoterol 12micrograms/dose dry powder inhaler,
+'3244611000001109,Formoterol 12micrograms/dose dry powder inhaler,301011
+'11176311000001104,Formoterol 12micrograms/dose dry powder inhaler,301011
+'3245011000001103,Oxis 12 Turbohaler (AstraZeneca UK Ltd),301011
+'3245311000001100,Oxis 12 Turbohaler (AstraZeneca UK Ltd),301011
+'5271811000001100,Oxis 12 Turbohaler (Waymade Healthcare Plc),
+'5271911000001105,Oxis 12 Turbohaler (Waymade Healthcare Plc),
+'5307111000001103,Oxis 12 Turbohaler (Dowelhurst Ltd),
+'5307411000001108,Oxis 12 Turbohaler (Dowelhurst Ltd),
+'11176411000001106,Formoterol Easyhaler 12micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),301011
+'11176511000001105,Formoterol Easyhaler 12micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),301011
+'13944011000001100,Oxis 12 Turbohaler (DE Pharmaceuticals),
+'13944111000001104,Oxis 12 Turbohaler (DE Pharmaceuticals),
+'14705611000001109,Oxis 12 Turbohaler (Sigma Pharmaceuticals Plc),
+'14705711000001100,Oxis 12 Turbohaler (Sigma Pharmaceuticals Plc),
+'16219411000001105,Oxis 12 Turbohaler (Lexon (UK) Ltd),
+'16219511000001109,Oxis 12 Turbohaler (Lexon (UK) Ltd),
+'16585911000001109,Oxis 12 Turbohaler (Stephar (U.K.) Ltd),
+'16586011000001101,Oxis 12 Turbohaler (Stephar (U.K.) Ltd),
+'17344611000001106,Oxis 12 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17344711000001102,Oxis 12 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17616911000001109,Oxis 12 Turbohaler (Necessity Supplies Ltd),
+'17617011000001108,Oxis 12 Turbohaler (Necessity Supplies Ltd),
+'320206008,Terbutaline 250micrograms/dose inhaler,
+'3246811000001101,Terbutaline 250micrograms/dose inhaler,301011
+'3248011000001106,Bricanyl 250micrograms/dose inhaler (AstraZeneca UK Ltd),301011
+'3248211000001101,Bricanyl 250micrograms/dose inhaler (AstraZeneca UK Ltd),301011
+'5257611000001105,Bricanyl 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'5257711000001101,Bricanyl 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'5277411000001105,Terbutaline 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'5277511000001109,Terbutaline 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'5284911000001104,Bricanyl 250micrograms/dose inhaler (Dowelhurst Ltd),
+'5285011000001104,Bricanyl 250micrograms/dose inhaler (Dowelhurst Ltd),
+'5322811000001104,Terbutaline 250micrograms/dose inhaler (Dowelhurst Ltd),
+'5322911000001109,Terbutaline 250micrograms/dose inhaler (Dowelhurst Ltd),
+'35916111000001109,Terbutaline 250micrograms/dose inhaler with spacer,301011
+'3248611000001104,Terbutaline 250micrograms/dose inhaler with spacer,301011
+'3248711000001108,Bricanyl 250micrograms/dose spacer inhaler (AstraZeneca UK Ltd),301011
+'3248811000001100,Bricanyl 250micrograms/dose spacer inhaler (AstraZeneca UK Ltd),301011
+'35936211000001105,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler,302000
+'3292311000001102,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler,302000
+'3292811000001106,Ventide inhaler (GlaxoSmithKline UK Ltd),302000
+'3293011000001109,Ventide inhaler (GlaxoSmithKline UK Ltd),302000
+'5278711000001103,Ventide inhaler (Waymade Healthcare Plc),
+'5278811000001106,Ventide inhaler (Waymade Healthcare Plc),
+'5324211000001109,Ventide inhaler (Dowelhurst Ltd),
+'5324311000001101,Ventide inhaler (Dowelhurst Ltd),
+'35936411000001109,Salbutamol 100micrograms/dose breath actuated inhaler,301011
+'3292711000001103,Salbutamol 100micrograms/dose breath actuated inhaler,301011
+'3293111000001105,Aerolin 100micrograms/dose Autohaler (3M Health Care Ltd),301011
+'3293411000001100,Aerolin 100micrograms/dose Autohaler (3M Health Care Ltd),301011
+'35912011000001109,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,302000
+'3294111000001107,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,302000
+'3294211000001101,Symbicort 100/6 Turbohaler (AstraZeneca UK Ltd),302000
+'3294311000001109,Symbicort 100/6 Turbohaler (AstraZeneca UK Ltd),302000
+'10983311000001107,Symbicort 100/6 Turbohaler (Waymade Healthcare Plc),
+'10983411000001100,Symbicort 100/6 Turbohaler (Waymade Healthcare Plc),
+'13206411000001106,Symbicort 100/6 Turbohaler (Dowelhurst Ltd),
+'13206511000001105,Symbicort 100/6 Turbohaler (Dowelhurst Ltd),
+'13958011000001106,Symbicort 100/6 Turbohaler (DE Pharmaceuticals),
+'13958111000001107,Symbicort 100/6 Turbohaler (DE Pharmaceuticals),
+'14620511000001104,Symbicort 100/6 Turbohaler (Sigma Pharmaceuticals Plc),
+'14620611000001100,Symbicort 100/6 Turbohaler (Sigma Pharmaceuticals Plc),
+'17457311000001102,Symbicort 100/6 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17457411000001109,Symbicort 100/6 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'18195111000001106,Symbicort 100/6 Turbohaler (Necessity Supplies Ltd),
+'18195211000001100,Symbicort 100/6 Turbohaler (Necessity Supplies Ltd),
+'34950611000001103,Fobumix Easyhaler 80micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'34950711000001107,Fobumix Easyhaler 80micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'134498003,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,
+'3294411000001102,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,302000
+'34950211000001100,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,302000
+'3294611000001104,Symbicort 200/6 Turbohaler (AstraZeneca UK Ltd),302000
+'3294711000001108,Symbicort 200/6 Turbohaler (AstraZeneca UK Ltd),302000
+'5277211000001106,Symbicort 200/6 Turbohaler (Waymade Healthcare Plc),
+'5277311000001103,Symbicort 200/6 Turbohaler (Waymade Healthcare Plc),
+'5321011000001102,Symbicort 200/6 Turbohaler (Dowelhurst Ltd),
+'5321211000001107,Symbicort 200/6 Turbohaler (Dowelhurst Ltd),
+'13958611000001104,Symbicort 200/6 Turbohaler (DE Pharmaceuticals),
+'13958911000001105,Symbicort 200/6 Turbohaler (DE Pharmaceuticals),
+'14620711000001109,Symbicort 200/6 Turbohaler (Sigma Pharmaceuticals Plc),
+'14620911000001106,Symbicort 200/6 Turbohaler (Sigma Pharmaceuticals Plc),
+'17457611000001107,Symbicort 200/6 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17457711000001103,Symbicort 200/6 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'18195311000001108,Symbicort 200/6 Turbohaler (Necessity Supplies Ltd),
+'18195411000001101,Symbicort 200/6 Turbohaler (Necessity Supplies Ltd),
+'25254111000001105,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Teva UK Ltd),302000
+'25254211000001104,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Teva UK Ltd),302000
+'34950311000001108,Fobumix Easyhaler 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'34950511000001102,Fobumix Easyhaler 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'34950411000001101,Fobumix Easyhaler 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'36889311000001107,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Pharmaram Ltd),
+'36889411000001100,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Pharmaram Ltd),
+'35936311000001102,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler,301040
+'3348311000001102,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler,301040
+'5259011000001107,Salbutamol 100micrograms/dose / Ipratropium 20micrograms/dose inhaler,301040
+'3348611000001107,Combivent inhaler (Boehringer Ingelheim Ltd),301040
+'3349011000001105,Combivent inhaler (Boehringer Ingelheim Ltd),301040
+'5259111000001108,Combivent inhaler (Waymade Healthcare Plc),
+'5259211000001102,Combivent inhaler (Waymade Healthcare Plc),
+'5259411000001103,Combivent inhaler (Waymade Healthcare Plc),
+'5287111000001107,Combivent inhaler (Dowelhurst Ltd),
+'5287211000001101,Combivent inhaler (Dowelhurst Ltd),
+'9479011000001103,Tiotropium bromide 18microgram inhalation powder capsules with device,301020
+'3378011000001101,Tiotropium bromide 18microgram inhalation powder capsules with device,301020
+'3378211000001106,Spiriva 18microgram inhalation powder capsules with HandiHaler (Boehringer Ingelheim Ltd),301020
+'3378811000001107,Spiriva 18microgram inhalation powder capsules with HandiHaler (Boehringer Ingelheim Ltd),301020
+'5319611000001103,Spiriva 18microgram inhalation powder capsules with HandiHaler (Dowelhurst Ltd),
+'5319911000001109,Spiriva 18microgram inhalation powder capsules with HandiHaler (Dowelhurst Ltd),
+'10509311000001101,Spiriva 18microgram inhalation powder capsules with HandiHaler (Waymade Healthcare Plc),
+'10509411000001108,Spiriva 18microgram inhalation powder capsules with HandiHaler (Waymade Healthcare Plc),
+'13952411000001104,Spiriva 18microgram inhalation powder capsules with HandiHaler (DE Pharmaceuticals),
+'13952711000001105,Spiriva 18microgram inhalation powder capsules with HandiHaler (DE Pharmaceuticals),
+'14384011000001101,Spiriva 18microgram inhalation powder capsules with HandiHaler (Sigma Pharmaceuticals Plc),
+'14384411000001105,Spiriva 18microgram inhalation powder capsules with HandiHaler (Sigma Pharmaceuticals Plc),
+'17454411000001104,Spiriva 18microgram inhalation powder capsules with HandiHaler (Mawdsley-Brooks & Company Ltd),
+'17454511000001100,Spiriva 18microgram inhalation powder capsules with HandiHaler (Mawdsley-Brooks & Company Ltd),
+'320171009,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials,301011
+'3379211000001101,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials,301011
+'4840511000001106,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials,301011
+'3379611000001104,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301011
+'3380411000001102,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301011
+'3380811000001100,Maxivent 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),301011
+'3380911000001105,Maxivent 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),301011
+'3381111000001101,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Mylan),301011
+'3381211000001107,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Mylan),301011
+'3381811000001108,Ventolin 5mg Nebules (GlaxoSmithKline UK Ltd),301011
+'3382011000001105,Ventolin 5mg Nebules (GlaxoSmithKline UK Ltd),301011
+'4840611000001105,Ventolin 5mg Nebules (GlaxoSmithKline UK Ltd),301011
+'3383511000001109,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),301011
+'3383911000001102,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),301011
+'9040211000001108,Salbutamol 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),301011
+'9040311000001100,Salbutamol 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),301011
+'9102511000001109,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Teva UK Ltd),301011
+'9102611000001108,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Teva UK Ltd),301011
+'10454011000001100,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301011
+'10454111000001104,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301011
+'11006711000001101,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Actavis UK Ltd),301011
+'11006811000001109,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Actavis UK Ltd),301011
+'12880811000001108,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),301011
+'12880911000001103,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),301011
+'17026711000001105,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301011
+'17026811000001102,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301011
+'17471311000001106,Ventolin 5mg Nebules (Mawdsley-Brooks & Company Ltd),
+'17471411000001104,Ventolin 5mg Nebules (Mawdsley-Brooks & Company Ltd),
+'17927411000001105,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),301011
+'17927511000001109,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),301011
+'18080911000001107,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Fannin UK Ltd),301011
+'18081011000001104,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Fannin UK Ltd),301011
+'30892111000001108,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),301011
+'30892211000001102,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),301011
+'9478911000001107,Tiotropium bromide 18microgram inhalation powder capsules,301020
+'3379411000001102,Tiotropium bromide 18microgram inhalation powder capsules,301020
+'13204711000001109,Tiotropium bromide 18microgram inhalation powder capsules,301020
+'3380011000001106,Spiriva 18microgram inhalation powder capsules (Boehringer Ingelheim Ltd),301020
+'3380511000001103,Spiriva 18microgram inhalation powder capsules (Boehringer Ingelheim Ltd),301020
+'30293711000001109,Spiriva 18microgram inhalation powder capsules (Boehringer Ingelheim Ltd),301020
+'10469711000001108,Spiriva 18microgram inhalation powder capsules (Dowelhurst Ltd),
+'10469811000001100,Spiriva 18microgram inhalation powder capsules (Dowelhurst Ltd),
+'13204811000001101,Spiriva 18microgram inhalation powder capsules (Dowelhurst Ltd),
+'10785611000001108,Spiriva 18microgram inhalation powder capsules (Waymade Healthcare Plc),
+'10785711000001104,Spiriva 18microgram inhalation powder capsules (Waymade Healthcare Plc),
+'13953011000001104,Spiriva 18microgram inhalation powder capsules (DE Pharmaceuticals),
+'13953511000001107,Spiriva 18microgram inhalation powder capsules (DE Pharmaceuticals),
+'13953311000001101,Spiriva 18microgram inhalation powder capsules (DE Pharmaceuticals),
+'14382411000001103,Spiriva 18microgram inhalation powder capsules (Sigma Pharmaceuticals Plc),
+'14382911000001106,Spiriva 18microgram inhalation powder capsules (Sigma Pharmaceuticals Plc),
+'18155011000001100,Spiriva 18microgram inhalation powder capsules (Mawdsley-Brooks & Company Ltd),
+'18155111000001104,Spiriva 18microgram inhalation powder capsules (Mawdsley-Brooks & Company Ltd),
+'320250009,Salmeterol 50micrograms/dose dry powder inhaler,
+'3379911000001105,Salmeterol 50micrograms/dose dry powder inhaler,301011
+'3380111000001107,Serevent 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),301011
+'3381011000001102,Serevent 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),301011
+'5276511000001107,Serevent 50micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'5276611000001106,Serevent 50micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'5320611000001104,Serevent 50micrograms/dose Accuhaler (Dowelhurst Ltd),
+'5320811000001100,Serevent 50micrograms/dose Accuhaler (Dowelhurst Ltd),
+'13997811000001107,Serevent 50micrograms/dose Accuhaler (DE Pharmaceuticals),
+'13997911000001102,Serevent 50micrograms/dose Accuhaler (DE Pharmaceuticals),
+'14706011000001106,Serevent 50micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'14706111000001107,Serevent 50micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'16241911000001106,Serevent 50micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'16242011000001104,Serevent 50micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'17441111000001108,Serevent 50micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'17441211000001102,Serevent 50micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'18186011000001102,Serevent 50micrograms/dose Accuhaler (Necessity Supplies Ltd),
+'18186111000001101,Serevent 50micrograms/dose Accuhaler (Necessity Supplies Ltd),
+'36895211000001101,Serevent 50micrograms/dose Accuhaler (Originalis B.V.),
+'36895411000001102,Serevent 50micrograms/dose Accuhaler (Originalis B.V.),
+'320141001,Salbutamol 200micrograms/dose dry powder inhaler,
+'3382311000001108,Salbutamol 200micrograms/dose dry powder inhaler,301011
+'3382411000001101,Salbutamol 200micrograms/dose dry powder inhaler,301011
+'9204811000001104,Salbutamol 200micrograms/dose dry powder inhaler,301011
+'3382711000001107,Ventolin 200micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),301011
+'3383211000001106,Ventolin 200micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd),301011
+'3384111000001103,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler (Chiesi Ltd),301011
+'3384311000001101,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler (Chiesi Ltd),301011
+'5324411000001108,Ventolin 200micrograms/dose Accuhaler (Dowelhurst Ltd),
+'5324511000001107,Ventolin 200micrograms/dose Accuhaler (Dowelhurst Ltd),
+'9204911000001109,Easyhaler Salbutamol sulfate 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),301011
+'9205011000001109,Easyhaler Salbutamol sulfate 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),301011
+'10493811000001104,Ventolin 200micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'10494311000001105,Ventolin 200micrograms/dose Accuhaler (Waymade Healthcare Plc),
+'13967411000001108,Ventolin 200micrograms/dose Accuhaler (DE Pharmaceuticals),
+'13967511000001107,Ventolin 200micrograms/dose Accuhaler (DE Pharmaceuticals),
+'14750911000001104,Ventolin 200micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'14751011000001107,Ventolin 200micrograms/dose Accuhaler (Sigma Pharmaceuticals Plc),
+'17470911000001100,Ventolin 200micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'17471011000001108,Ventolin 200micrograms/dose Accuhaler (Mawdsley-Brooks & Company Ltd),
+'20031011000001108,Ventolin 200micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'20031111000001109,Ventolin 200micrograms/dose Accuhaler (Lexon (UK) Ltd),
+'320177008,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials,301011
+'3385611000001107,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials,301011
+'4840311000001100,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials,301011
+'3385711000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301011
+'3386011000001109,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301011
+'3386411000001100,Maxivent 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),301011
+'3386611000001102,Maxivent 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd),301011
+'3386811000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Mylan),301011
+'3386911000001108,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Mylan),301011
+'3387011000001107,Ventolin 2.5mg Nebules (GlaxoSmithKline UK Ltd),301011
+'3387311000001105,Ventolin 2.5mg Nebules (GlaxoSmithKline UK Ltd),301011
+'4840411000001107,Ventolin 2.5mg Nebules (GlaxoSmithKline UK Ltd),301011
+'3387511000001104,Salamol 2.5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),301011
+'3387711000001109,Salamol 2.5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd),301011
+'9040011000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),301011
+'9040111000001102,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd),301011
+'9102311000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Teva UK Ltd),301011
+'9102411000001105,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Teva UK Ltd),301011
+'10453811000001108,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301011
+'10453911000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301011
+'11006511000001106,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Actavis UK Ltd),301011
+'11006611000001105,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Actavis UK Ltd),301011
+'12880611000001109,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),301011
+'12880711000001100,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),301011
+'17026511000001100,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301011
+'17026611000001101,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301011
+'17471511000001100,Ventolin 2.5mg Nebules (Mawdsley-Brooks & Company Ltd),
+'17471611000001101,Ventolin 2.5mg Nebules (Mawdsley-Brooks & Company Ltd),
+'17927211000001106,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),301011
+'17927311000001103,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),301011
+'18080711000001105,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Fannin UK Ltd),301011
+'18080811000001102,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Fannin UK Ltd),301011
+'30891911000001100,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),301011
+'30892011000001107,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),301011
+'320610001,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials,302000
+'3388711000001105,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials,302000
+'3389111000001102,Flixotide 0.5mg/2ml Nebules (GlaxoSmithKline UK Ltd),302000
+'3389611000001105,Flixotide 0.5mg/2ml Nebules (GlaxoSmithKline UK Ltd),302000
+'12888311000001102,Flixotide 0.5mg/2ml Nebules (Waymade Healthcare Plc),
+'12888411000001109,Flixotide 0.5mg/2ml Nebules (Waymade Healthcare Plc),
+'13878311000001100,Flixotide 0.5mg/2ml Nebules (DE Pharmaceuticals),
+'13878411000001107,Flixotide 0.5mg/2ml Nebules (DE Pharmaceuticals),
+'14234911000001101,Flixotide 0.5mg/2ml Nebules (Sigma Pharmaceuticals Plc),
+'14235011000001101,Flixotide 0.5mg/2ml Nebules (Sigma Pharmaceuticals Plc),
+'16180411000001101,Flixotide 0.5mg/2ml Nebules (Lexon (UK) Ltd),
+'16180511000001102,Flixotide 0.5mg/2ml Nebules (Lexon (UK) Ltd),
+'16580211000001109,Flixotide 0.5mg/2ml Nebules (Mawdsley-Brooks & Company Ltd),
+'16580311000001101,Flixotide 0.5mg/2ml Nebules (Mawdsley-Brooks & Company Ltd),
+'320611002,Fluticasone 2mg/2ml nebuliser liquid unit dose vials,302000
+'3396711000001107,Fluticasone 2mg/2ml nebuliser liquid unit dose vials,302000
+'3397211000001103,Flixotide 2mg/2ml Nebules (GlaxoSmithKline UK Ltd),302000
+'3399411000001108,Flixotide 2mg/2ml Nebules (GlaxoSmithKline UK Ltd),302000
+'10834011000001106,Flixotide 2mg/2ml Nebules (Waymade Healthcare Plc),
+'10834111000001107,Flixotide 2mg/2ml Nebules (Waymade Healthcare Plc),
+'13878511000001106,Flixotide 2mg/2ml Nebules (DE Pharmaceuticals),
+'13878711000001101,Flixotide 2mg/2ml Nebules (DE Pharmaceuticals),
+'14235111000001100,Flixotide 2mg/2ml Nebules (Sigma Pharmaceuticals Plc),
+'14235211000001106,Flixotide 2mg/2ml Nebules (Sigma Pharmaceuticals Plc),
+'16180611000001103,Flixotide 2mg/2ml Nebules (Lexon (UK) Ltd),
+'16180711000001107,Flixotide 2mg/2ml Nebules (Lexon (UK) Ltd),
+'16580411000001108,Flixotide 2mg/2ml Nebules (Mawdsley-Brooks & Company Ltd),
+'16580511000001107,Flixotide 2mg/2ml Nebules (Mawdsley-Brooks & Company Ltd),
+'320445000,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials,301040
+'3405811000001102,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid unit dose vials,301040
+'3406011000001104,Combivent nebuliser liquid 2.5ml UDVs (Boehringer Ingelheim Ltd),301040
+'3406411000001108,Combivent nebuliser liquid 2.5ml UDVs (Boehringer Ingelheim Ltd),301040
+'5287711000001108,Combivent nebuliser liquid 2.5ml UDVs (Dowelhurst Ltd),
+'5288011000001107,Combivent nebuliser liquid 2.5ml UDVs (Dowelhurst Ltd),
+'10776911000001102,Combivent nebuliser liquid 2.5ml UDVs (Waymade Healthcare Plc),
+'10777011000001103,Combivent nebuliser liquid 2.5ml UDVs (Waymade Healthcare Plc),
+'10927511000001104,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials (Teva UK Ltd),301040
+'10927611000001100,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials (Teva UK Ltd),301040
+'18220811000001104,Combivent nebuliser liquid 2.5ml UDVs (Mawdsley-Brooks & Company Ltd),
+'18220911000001109,Combivent nebuliser liquid 2.5ml UDVs (Mawdsley-Brooks & Company Ltd),
+'19541511000001101,Combivent nebuliser liquid 2.5ml UDVs (DE Pharmaceuticals),
+'19541611000001102,Combivent nebuliser liquid 2.5ml UDVs (DE Pharmaceuticals),
+'19869411000001109,Combivent nebuliser liquid 2.5ml UDVs (Lexon (UK) Ltd),
+'19869511000001108,Combivent nebuliser liquid 2.5ml UDVs (Lexon (UK) Ltd),
+'35936511000001108,Salbutamol 100micrograms/dose inhaler,301011
+'3407411000001105,Salbutamol 100micrograms/dose inhaler,301011
+'3408611000001107,Salbutamol 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd),301011
+'3409311000001108,Salbutamol 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd),301011
+'3410611000001106,Salbutamol 100micrograms/dose inhaler (Mylan),301011
+'3411411000001104,Salbutamol 100micrograms/dose inhaler (Mylan),301011
+'3412611000001107,Salbutamol 100micrograms/dose inhaler (Kent Pharmaceuticals Ltd),301011
+'3413011000001109,Salbutamol 100micrograms/dose inhaler (Kent Pharmaceuticals Ltd),301011
+'3415711000001107,Salbutamol 100micrograms/dose inhaler (Sandoz Ltd),301011
+'3416211000001106,Salbutamol 100micrograms/dose inhaler (Sandoz Ltd),301011
+'3417111000001102,Salbutamol 100micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd),301011
+'3417711000001101,Salbutamol 100micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd),301011
+'10432311000001108,Salbutamol 100micrograms/dose inhaler (Arrow Generics Ltd),301011
+'10432411000001101,Salbutamol 100micrograms/dose inhaler (Arrow Generics Ltd),301011
+'35909211000001109,Beclometasone 50micrograms/dose breath actuated inhaler,302000
+'3604511000001103,Beclometasone 50micrograms/dose breath actuated inhaler,302000
+'3604611000001104,Beclazone 50 Easi-Breathe inhaler (Teva UK Ltd),302000
+'3604711000001108,Beclazone 50 Easi-Breathe inhaler (Teva UK Ltd),302000
+'3604911000001105,AeroBec 50 Autohaler (Meda Pharmaceuticals Ltd),302000
+'3605011000001105,AeroBec 50 Autohaler (Meda Pharmaceuticals Ltd),302000
+'13181011000001105,Beclazone 50 Easi-Breathe inhaler (Dowelhurst Ltd),
+'13181111000001106,Beclazone 50 Easi-Breathe inhaler (Dowelhurst Ltd),
+'3631611000001106,Sodium cromoglicate 20mg/2ml nebuliser liquid unit dose vials,303010
+'3606111000001100,Sodium cromoglicate 20mg/2ml nebuliser liquid unit dose vials,303010
+'12789311000001105,Sodium cromoglicate 20mg/2ml nebuliser liquid unit dose vials,303010
+'15876511000001103,Sodium cromoglicate 20mg/2ml nebuliser liquid unit dose vials,303010
+'3607111000001102,Intal 20mg/2ml nebuliser solution unit dose vials (Aventis Pharma),303010
+'3607411000001107,Intal 20mg/2ml nebuliser solution unit dose vials (Aventis Pharma),303010
+'4667011000001102,Cromogen 20mg/2ml nebuliser liquid Steri-Neb unit dose vials (IVAX Pharmaceuticals UK Ltd),303010
+'4667111000001101,Cromogen 20mg/2ml nebuliser liquid Steri-Neb unit dose vials (IVAX Pharmaceuticals UK Ltd),303010
+'12790111000001102,Cromosol 20mg/2ml nebuliser liquid unit dose vials (Imported (Switzerland)),303010
+'12790211000001108,Cromosol 20mg/2ml nebuliser liquid unit dose vials (Imported (Switzerland)),303010
+'15876611000001104,Sodium cromoglicate 20mg/2ml nebuliser liquid unit dose vials (Special Order),303010
+'15876711000001108,Sodium cromoglicate 20mg/2ml nebuliser liquid unit dose vials (Special Order),303010
+'3654411000001106,Terbutaline 5mg/2ml nebuliser liquid unit dose vials,301011
+'3633811000001109,Terbutaline 5mg/2ml nebuliser liquid unit dose vials,301011
+'3633911000001104,Bricanyl 5mg/2ml Respules (AstraZeneca UK Ltd),301011
+'3634011000001101,Bricanyl 5mg/2ml Respules (AstraZeneca UK Ltd),301011
+'9111011000001106,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Galen Ltd),301011
+'9111111000001107,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Galen Ltd),301011
+'11150411000001106,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd),301011
+'11150511000001105,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd),301011
+'11256611000001108,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301011
+'11256711000001104,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),301011
+'12062211000001109,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301011
+'12062311000001101,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),301011
+'17661711000001102,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301011
+'17661811000001105,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd),301011
+'21787311000001103,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),301011
+'21787411000001105,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),301011
+'22355111000001103,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (AM Distributions (Yorkshire) Ltd),301011
+'22355211000001109,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (AM Distributions (Yorkshire) Ltd),301011
+'30924211000001107,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),301011
+'30924311000001104,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),301011
+'3654511000001105,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,302000
+'3634611000001108,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials,302000
+'3635411000001106,Pulmicort 0.5mg Respules (AstraZeneca UK Ltd),302000
+'3635711000001100,Pulmicort 0.5mg Respules (AstraZeneca UK Ltd),302000
+'5310511000001105,Pulmicort 0.5mg Respules (Dowelhurst Ltd),
+'5310611000001109,Pulmicort 0.5mg Respules (Dowelhurst Ltd),
+'5404711000001104,Pulmicort 0.5mg Respules (Waymade Healthcare Plc),
+'5404811000001107,Pulmicort 0.5mg Respules (Waymade Healthcare Plc),
+'10272811000001101,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),302000
+'10273111000001102,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),302000
+'10273611000001105,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Teva UK Ltd),302000
+'10273711000001101,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Teva UK Ltd),302000
+'10326511000001109,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),302000
+'10326611000001108,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),302000
+'10347711000001104,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),302000
+'10347811000001107,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),302000
+'10453011000001102,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd),302000
+'10453111000001101,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd),302000
+'11005511000001104,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Actavis UK Ltd),302000
+'11005611000001100,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Actavis UK Ltd),302000
+'13186811000001109,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Dowelhurst Ltd),
+'13187011000001100,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Dowelhurst Ltd),
+'13952211000001103,Pulmicort 0.5mg Respules (DE Pharmaceuticals),
+'13952311000001106,Pulmicort 0.5mg Respules (DE Pharmaceuticals),
+'14386211000001101,Pulmicort 0.5mg Respules (Sigma Pharmaceuticals Plc),
+'14386611000001104,Pulmicort 0.5mg Respules (Sigma Pharmaceuticals Plc),
+'16230911000001103,Pulmicort 0.5mg Respules (Lexon (UK) Ltd),
+'16231011000001106,Pulmicort 0.5mg Respules (Lexon (UK) Ltd),
+'16587011000001103,Pulmicort 0.5mg Respules (Stephar (U.K.) Ltd),
+'16587111000001102,Pulmicort 0.5mg Respules (Stephar (U.K.) Ltd),
+'17425011000001106,Pulmicort 0.5mg Respules (Mawdsley-Brooks & Company Ltd),
+'17425111000001107,Pulmicort 0.5mg Respules (Mawdsley-Brooks & Company Ltd),
+'17809311000001106,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),302000
+'17809811000001102,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),302000
+'18174711000001104,Pulmicort 0.5mg Respules (Necessity Supplies Ltd),
+'18174811000001107,Pulmicort 0.5mg Respules (Necessity Supplies Ltd),
+'18507011000001106,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd),302000
+'18507111000001107,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd),302000
+'21804411000001104,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),302000
+'21804511000001100,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),302000
+'22622411000001105,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals),302000
+'22622511000001109,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals),302000
+'29775411000001101,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc),302000
+'29775511000001102,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc),302000
+'30004311000001102,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),302000
+'30004411000001109,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),302000
+'3654611000001109,Budesonide 1mg/2ml nebuliser liquid unit dose vials,302000
+'3636211000001101,Budesonide 1mg/2ml nebuliser liquid unit dose vials,302000
+'3636511000001103,Pulmicort 1mg Respules (AstraZeneca UK Ltd),302000
+'3636811000001100,Pulmicort 1mg Respules (AstraZeneca UK Ltd),302000
+'5312311000001100,Pulmicort 1mg Respules (Dowelhurst Ltd),
+'5312511000001106,Pulmicort 1mg Respules (Dowelhurst Ltd),
+'10273211000001108,Budesonide 1mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),302000
+'10273311000001100,Budesonide 1mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd),302000
+'10274211000001106,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Teva UK Ltd),302000
+'10274711000001104,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Teva UK Ltd),302000
+'10326711000001104,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),302000
+'10326811000001107,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd),302000
+'10347911000001102,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),302000
+'10348011000001100,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd),302000
+'10453211000001107,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd),302000
+'10453311000001104,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd),302000
+'10785011000001101,Pulmicort 1mg Respules (Waymade Healthcare Plc),
+'10785111000001100,Pulmicort 1mg Respules (Waymade Healthcare Plc),
+'11005711000001109,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Actavis UK Ltd),302000
+'11005811000001101,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Actavis UK Ltd),302000
+'13186411000001107,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Dowelhurst Ltd),
+'13186511000001106,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Dowelhurst Ltd),
+'13952511000001100,Pulmicort 1mg Respules (DE Pharmaceuticals),
+'13952611000001101,Pulmicort 1mg Respules (DE Pharmaceuticals),
+'14382711000001109,Pulmicort 1mg Respules (Sigma Pharmaceuticals Plc),
+'14383011000001103,Pulmicort 1mg Respules (Sigma Pharmaceuticals Plc),
+'15060511000001109,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc),302000
+'15060711000001104,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc),302000
+'16231411000001102,Pulmicort 1mg Respules (Lexon (UK) Ltd),
+'16231511000001103,Pulmicort 1mg Respules (Lexon (UK) Ltd),
+'16587211000001108,Pulmicort 1mg Respules (Stephar (U.K.) Ltd),
+'16587311000001100,Pulmicort 1mg Respules (Stephar (U.K.) Ltd),
+'17425311000001109,Pulmicort 1mg Respules (Mawdsley-Brooks & Company Ltd),
+'17425511000001103,Pulmicort 1mg Respules (Mawdsley-Brooks & Company Ltd),
+'17810011000001102,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),302000
+'17810311000001104,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd),302000
+'18174511000001109,Pulmicort 1mg Respules (Necessity Supplies Ltd),
+'18174611000001108,Pulmicort 1mg Respules (Necessity Supplies Ltd),
+'18507211000001101,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd),302000
+'18507311000001109,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd),302000
+'21804611000001101,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),302000
+'21804711000001105,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc),302000
+'22622611000001108,Budesonide 1mg/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals),302000
+'22622711000001104,Budesonide 1mg/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals),302000
+'30004511000001108,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),302000
+'30004611000001107,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd),302000
+'317446001,Budesonide 3mg gastro-resistant capsules,105020
+'3807511000001101,Budesonide 3mg gastro-resistant capsules,105020
+'408013007,Mometasone 400micrograms/dose dry powder inhaler,
+'4043211000001104,Mometasone 400micrograms/dose dry powder inhaler,302000
+'4043311000001107,Mometasone 400micrograms/dose dry powder inhaler,302000
+'4043811000001103,Asmanex 400micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),302000
+'4043911000001108,Asmanex 400micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),302000
+'4044411000001102,Asmanex 400micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),302000
+'19727911000001101,Asmanex 400micrograms/dose Twisthaler (Mawdsley-Brooks & Company Ltd),
+'19728011000001104,Asmanex 400micrograms/dose Twisthaler (Mawdsley-Brooks & Company Ltd),
+'408026006,Mometasone 200micrograms/dose dry powder inhaler,
+'4045111000001106,Mometasone 200micrograms/dose dry powder inhaler,302000
+'4045211000001100,Mometasone 200micrograms/dose dry powder inhaler,302000
+'4045711000001107,Asmanex 200micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),302000
+'4045911000001109,Asmanex 200micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),302000
+'4046111000001100,Asmanex 200micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd),302000
+'24667411000001109,Asmanex 200micrograms/dose Twisthaler (Waymade Healthcare Plc),
+'24667511000001108,Asmanex 200micrograms/dose Twisthaler (Waymade Healthcare Plc),
+'320674000,Nedocromil 2mg/dose inhaler,303010
+'4106911000001104,Nedocromil 2mg/dose inhaler,303010
+'4107011000001100,Tilade 2mg/dose inhaler (Sanofi),303010
+'4107111000001104,Tilade 2mg/dose inhaler (Sanofi),303010
+'4161311000001109,Sodium cromoglicate 5mg/dose inhaler with spacer,303010
+'4146111000001108,Sodium cromoglicate 5mg/dose inhaler with spacer,303010
+'9525611000001102,Sodium cromoglicate 5mg/dose inhaler with spacer,303010
+'4146211000001102,Intal 5mg/dose Syncroner with spacer (Aventis Pharma),303010
+'4146311000001105,Intal 5mg/dose Syncroner with spacer (Aventis Pharma),303010
+'9520811000001109,Intal 5mg/dose Fisonair with spacer (Sanofi),303010
+'9525711000001106,Intal 5mg/dose Fisonair with spacer (Sanofi),303010
+'36030411000001101,Nedocromil 2mg/dose inhaler with spacer,303010
+'4163211000001102,Nedocromil 2mg/dose inhaler with spacer,303010
+'4163411000001103,Tilade 2mg/dose Syncroner with spacer (Sanofi),303010
+'4163511000001104,Tilade 2mg/dose Syncroner with spacer (Sanofi),303010
+'35926411000001107,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler with spacer,303010
+'4179411000001109,Sodium cromoglicate 1mg/dose / Salbutamol 100micrograms/dose inhaler with spacer,303010
+'4179611000001107,Aerocrom Syncroner with spacer (Castlemead Healthcare Ltd),303010
+'4179711000001103,Aerocrom Syncroner with spacer (Castlemead Healthcare Ltd),303010
+'349394001,Fenoterol 1.25mg/4ml / Ipratropium 500micrograms/4ml nebuliser liquid unit dose vials,301040
+'4192211000001105,Fenoterol 1.25mg/4ml / Ipratropium 500micrograms/4ml nebuliser liquid unit dose vials,301040
+'4192411000001109,Duovent UDVs nebuliser liquid 4ml (Boehringer Ingelheim Ltd),301040
+'4192511000001108,Duovent UDVs nebuliser liquid 4ml (Boehringer Ingelheim Ltd),301040
+'14214011000001107,Duovent UDVs nebuliser liquid 4ml (Sigma Pharmaceuticals Plc),
+'14214111000001108,Duovent UDVs nebuliser liquid 4ml (Sigma Pharmaceuticals Plc),
+'4378111000001103,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,302000
+'4373411000001102,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler,302000
+'4373811000001100,Symbicort 400/12 Turbohaler (AstraZeneca UK Ltd),302000
+'4374111000001109,Symbicort 400/12 Turbohaler (AstraZeneca UK Ltd),302000
+'10506611000001103,Symbicort 400/12 Turbohaler (Waymade Healthcare Plc),
+'10506811000001104,Symbicort 400/12 Turbohaler (Waymade Healthcare Plc),
+'13206611000001109,Symbicort 400/12 Turbohaler (Dowelhurst Ltd),
+'13206711000001100,Symbicort 400/12 Turbohaler (Dowelhurst Ltd),
+'13959211000001106,Symbicort 400/12 Turbohaler (DE Pharmaceuticals),
+'13959311000001103,Symbicort 400/12 Turbohaler (DE Pharmaceuticals),
+'14621111000001102,Symbicort 400/12 Turbohaler (Sigma Pharmaceuticals Plc),
+'14621211000001108,Symbicort 400/12 Turbohaler (Sigma Pharmaceuticals Plc),
+'17457811000001106,Symbicort 400/12 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'17457911000001101,Symbicort 400/12 Turbohaler (Mawdsley-Brooks & Company Ltd),
+'18195511000001102,Symbicort 400/12 Turbohaler (Necessity Supplies Ltd),
+'18195611000001103,Symbicort 400/12 Turbohaler (Necessity Supplies Ltd),
+'25254711000001106,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Teva UK Ltd),302000
+'25254911000001108,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Teva UK Ltd),302000
+'34812111000001106,Fobumix Easyhaler 320micrograms/dose / 9micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'34812311000001108,Fobumix Easyhaler 320micrograms/dose / 9micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),302000
+'36889511000001101,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Pharmaram Ltd),
+'36889611000001102,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Pharmaram Ltd),
+'4558411000001107,Fenoterol 200micrograms/dose inhaler,301011
+'4537211000001105,Fenoterol 200micrograms/dose inhaler,301011
+'4537611000001107,Berotec 200micrograms/dose inhaler (Boehringer Ingelheim Ltd),301011
+'4537711000001103,Berotec 200micrograms/dose inhaler (Boehringer Ingelheim Ltd),301011
+'320180009,Salbutamol 5mg/ml nebuliser liquid,301011
+'4843611000001101,Salbutamol 5mg/ml nebuliser liquid,301011
+'4843911000001107,Ventolin 5mg/ml respirator solution (GlaxoSmithKline UK Ltd),301011
+'4844111000001106,Ventolin 5mg/ml respirator solution (GlaxoSmithKline UK Ltd),301011
+'36059111000001102,Fluticasone 25micrograms/dose inhaler,302000
+'4855911000001106,Fluticasone 25micrograms/dose inhaler,302000
+'4856011000001103,Flixotide 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd),302000
+'4856111000001102,Flixotide 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd),302000
+'10835911000001109,Flixotide 25micrograms/dose inhaler (Waymade Healthcare Plc),
+'10836011000001101,Flixotide 25micrograms/dose inhaler (Waymade Healthcare Plc),
+'4864911000001104,Budesonide 200micrograms/dose inhaler with spacer,302000
+'4860711000001107,Budesonide 200micrograms/dose inhaler with spacer,302000
+'4860811000001104,Pulmicort 200micrograms/dose inhaler with Nebuchamber (AstraZeneca UK Ltd),302000
+'4860911000001109,Pulmicort 200micrograms/dose inhaler with Nebuchamber (AstraZeneca UK Ltd),302000
+'414538008,Ipratropium bromide 20micrograms/dose inhaler CFC free,
+'7389811000001100,Ipratropium bromide 20micrograms/dose inhaler CFC free,301020
+'7389911000001105,Atrovent 20micrograms/dose inhaler CFC free (Boehringer Ingelheim Ltd),301020
+'7390011000001102,Atrovent 20micrograms/dose inhaler CFC free (Boehringer Ingelheim Ltd),301020
+'14206211000001105,Atrovent 20micrograms/dose inhaler CFC free (Sigma Pharmaceuticals Plc),
+'14206411000001109,Atrovent 20micrograms/dose inhaler CFC free (Sigma Pharmaceuticals Plc),
+'18071311000001107,Atrovent 20micrograms/dose inhaler CFC free (Lexon (UK) Ltd),
+'18071411000001100,Atrovent 20micrograms/dose inhaler CFC free (Lexon (UK) Ltd),
+'20164811000001104,Atrovent 20micrograms/dose inhaler CFC free (DE Pharmaceuticals),
+'20164911000001109,Atrovent 20micrograms/dose inhaler CFC free (DE Pharmaceuticals),
+'27872911000001109,Ipratropium bromide 20micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd),301020
+'27873111000001100,Ipratropium bromide 20micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd),301020
+'34954811000001109,Inhalvent 20micrograms/dose inhaler (Alissa Healthcare Research Ltd),301020
+'34954911000001104,Inhalvent 20micrograms/dose inhaler (Alissa Healthcare Research Ltd),301020
+'8024611000001102,Budesonide 200micrograms/dose dry powder inhalation cartridge with device,302000
+'8024711000001106,Budesonide 200micrograms/dose dry powder inhalation cartridge with device,302000
+'8031811000001102,Budelin Novolizer 200micrograms/dose inhalation powder (Meda Pharmaceuticals Ltd),302000
+'8031911000001107,Budelin Novolizer 200micrograms/dose inhalation powder (Meda Pharmaceuticals Ltd),302000
+'9004511000001107,Ciclesonide 80micrograms/dose inhaler CFC free,302000
+'9003811000001107,Ciclesonide 80micrograms/dose inhaler CFC free,302000
+'23438711000001108,Ciclesonide 80micrograms/dose inhaler CFC free,302000
+'9003911000001102,Alvesco 80 inhaler (AstraZeneca UK Ltd),302000
+'9004011000001104,Alvesco 80 inhaler (AstraZeneca UK Ltd),302000
+'19726711000001101,Alvesco 80 inhaler (Mawdsley-Brooks & Company Ltd),
+'19726811000001109,Alvesco 80 inhaler (Mawdsley-Brooks & Company Ltd),
+'23438611000001104,Alvesco 80 inhaler (Waymade Healthcare Plc),
+'23438811000001100,Alvesco 80 inhaler (Waymade Healthcare Plc),
+'29959011000001102,Alvesco 80 inhaler (Lexon (UK) Ltd),
+'29959111000001101,Alvesco 80 inhaler (Lexon (UK) Ltd),
+'9004411000001108,Ciclesonide 160micrograms/dose inhaler CFC free,302000
+'9004111000001103,Ciclesonide 160micrograms/dose inhaler CFC free,302000
+'9342411000001109,Ciclesonide 160micrograms/dose inhaler CFC free,302000
+'9004211000001109,Alvesco 160 inhaler (AstraZeneca UK Ltd),302000
+'9004311000001101,Alvesco 160 inhaler (AstraZeneca UK Ltd),302000
+'9342511000001108,Alvesco 160 inhaler (AstraZeneca UK Ltd),302000
+'17490511000001100,Alvesco 160 inhaler (Mawdsley-Brooks & Company Ltd),
+'17490711000001105,Alvesco 160 inhaler (Mawdsley-Brooks & Company Ltd),
+'17490611000001101,Alvesco 160 inhaler (Mawdsley-Brooks & Company Ltd),
+'18050311000001104,Alvesco 160 inhaler (Lexon (UK) Ltd),
+'29959511000001105,Alvesco 160 inhaler (Lexon (UK) Ltd),
+'18050611000001109,Alvesco 160 inhaler (Lexon (UK) Ltd),
+'21690711000001109,Alvesco 160 inhaler (Waymade Healthcare Plc),
+'21691511000001106,Alvesco 160 inhaler (Waymade Healthcare Plc),
+'21691111000001102,Alvesco 160 inhaler (Waymade Healthcare Plc),
+'9117811000001107,Budesonide 200micrograms/dose dry powder inhalation cartridge,302000
+'9111711000001108,Budesonide 200micrograms/dose dry powder inhalation cartridge,302000
+'9111811000001100,Budelin Novolizer 200micrograms/dose inhalation powder refill (Meda Pharmaceuticals Ltd),302000
+'9111911000001105,Budelin Novolizer 200micrograms/dose inhalation powder refill (Meda Pharmaceuticals Ltd),302000
+'9207411000001106,Salbutamol 100micrograms/dose dry powder inhaler,301011
+'9205111000001105,Salbutamol 100micrograms/dose dry powder inhaler,301011
+'9205211000001104,Easyhaler Salbutamol sulfate 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),301011
+'9205311000001107,Easyhaler Salbutamol sulfate 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd),301011
+'9652711000001107,Formoterol 12micrograms/dose inhaler CFC free,301011
+'9628611000001102,Formoterol 12micrograms/dose inhaler CFC free,301011
+'9628711000001106,Atimos Modulite 12micrograms/dose inhaler (Chiesi Ltd),301011
+'9628811000001103,Atimos Modulite 12micrograms/dose inhaler (Chiesi Ltd),301011
+'30041511000001100,Atimos Modulite 12micrograms/dose inhaler (Waymade Healthcare Plc),
+'30041611000001101,Atimos Modulite 12micrograms/dose inhaler (Waymade Healthcare Plc),
+'9720211000001107,Nedocromil 2mg/dose inhaler CFC free,303010
+'9714011000001104,Nedocromil 2mg/dose inhaler CFC free,303010
+'9714111000001103,Tilade 2mg/dose inhaler CFC free (Sanofi),303010
+'9714211000001109,Tilade 2mg/dose inhaler CFC free (Sanofi),303010
+'17465111000001103,Tilade 2mg/dose inhaler CFC free (Mawdsley-Brooks & Company Ltd),
+'17465211000001109,Tilade 2mg/dose inhaler CFC free (Mawdsley-Brooks & Company Ltd),
+'10075611000001101,Salmeterol 25micrograms/dose inhaler CFC free,301011
+'10072811000001109,Salmeterol 25micrograms/dose inhaler CFC free,301011
+'10073011000001107,Serevent 25micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),301011
+'10073111000001108,Serevent 25micrograms/dose Evohaler (GlaxoSmithKline UK Ltd),301011
+'10847711000001102,Serevent 25micrograms/dose Evohaler (Waymade Healthcare Plc),
+'10847811000001105,Serevent 25micrograms/dose Evohaler (Waymade Healthcare Plc),
+'13203711000001107,Serevent 25micrograms/dose Evohaler (Dowelhurst Ltd),
+'13203811000001104,Serevent 25micrograms/dose Evohaler (Dowelhurst Ltd),
+'14706211000001101,Serevent 25micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),
+'14706411000001102,Serevent 25micrograms/dose Evohaler (Sigma Pharmaceuticals Plc),
+'16241711000001109,Serevent 25micrograms/dose Evohaler (Lexon (UK) Ltd),
+'16241811000001101,Serevent 25micrograms/dose Evohaler (Lexon (UK) Ltd),
+'17441311000001105,Serevent 25micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'17441411000001103,Serevent 25micrograms/dose Evohaler (Mawdsley-Brooks & Company Ltd),
+'18186311000001104,Serevent 25micrograms/dose Evohaler (Necessity Supplies Ltd),
+'18186411000001106,Serevent 25micrograms/dose Evohaler (Necessity Supplies Ltd),
+'18611611000001101,Serevent 25micrograms/dose Evohaler (DE Pharmaceuticals),
+'18611711000001105,Serevent 25micrograms/dose Evohaler (DE Pharmaceuticals),
+'19562111000001107,Neovent 25micrograms/dose inhaler CFC free (Teva UK Ltd),301011
+'19562211000001101,Neovent 25micrograms/dose inhaler CFC free (Teva UK Ltd),301011
+'19568411000001100,Neovent 25micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),301011
+'19568511000001101,Neovent 25micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),301011
+'22650111000001100,Vertine 25micrograms/dose inhaler CFC free (Teva UK Ltd),301011
+'22650211000001106,Vertine 25micrograms/dose inhaler CFC free (Teva UK Ltd),301011
+'33561211000001109,Soltel 25micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),301011
+'33561311000001101,Soltel 25micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd),301011
+'10598611000001104,Aminophylline powder,
+'10598711000001108,Aminophylline powder,
+'10598811000001100,Aminophylline powder (Imported (Germany)),
+'10598911000001105,Aminophylline powder (Imported (Germany)),
+'10621011000001101,Beclometasone 200micrograms/dose inhaler CFC free,302000
+'10619211000001104,Beclometasone 200micrograms/dose inhaler CFC free,302000
+'10619311000001107,Clenil Modulite 200micrograms/dose inhaler (Chiesi Ltd),302000
+'10619411000001100,Clenil Modulite 200micrograms/dose inhaler (Chiesi Ltd),302000
+'19737511000001105,Clenil Modulite 200micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),
+'19737611000001109,Clenil Modulite 200micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),
+'24591711000001104,Clenil Modulite 200micrograms/dose inhaler (Waymade Healthcare Plc),
+'24591811000001107,Clenil Modulite 200micrograms/dose inhaler (Waymade Healthcare Plc),
+'36603411000001105,Soprobec 200micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'36603511000001109,Soprobec 200micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'10621111000001100,Beclometasone 250micrograms/dose inhaler CFC free,302000
+'10619511000001101,Beclometasone 250micrograms/dose inhaler CFC free,302000
+'10619611000001102,Clenil Modulite 250micrograms/dose inhaler (Chiesi Ltd),302000
+'10619711000001106,Clenil Modulite 250micrograms/dose inhaler (Chiesi Ltd),302000
+'19737811000001108,Clenil Modulite 250micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),
+'19737911000001103,Clenil Modulite 250micrograms/dose inhaler (Mawdsley-Brooks & Company Ltd),
+'24591911000001102,Clenil Modulite 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'24592011000001109,Clenil Modulite 250micrograms/dose inhaler (Waymade Healthcare Plc),
+'36603811000001107,Soprobec 250micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'36603911000001102,Soprobec 250micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd),302000
+'12197411000001102,Tiotropium bromide 2.5micrograms/dose solution for inhalation cartridge with device CFC free,301020
+'12146811000001108,Tiotropium bromide 2.5micrograms/dose solution for inhalation cartridge with device CFC free,301020
+'12146911000001103,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),301020
+'12147011000001104,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),301020
+'17454611000001101,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Mawdsley-Brooks & Company Ltd),
+'17454711000001105,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Mawdsley-Brooks & Company Ltd),
+'24498211000001109,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Waymade Healthcare Plc),
+'24498311000001101,Spiriva Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Waymade Healthcare Plc),
+'12911011000001100,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,302000
+'12906311000001107,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,302000
+'12906411000001100,Fostair 100micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd),302000
+'12906511000001101,Fostair 100micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd),302000
+'13566211000001103,Salbutamol 100micrograms/dose dry powder inhalation cartridge with device,301011
+'13513011000001104,Salbutamol 100micrograms/dose dry powder inhalation cartridge with device,301011
+'13533511000001104,Salbulin Novolizer 100micrograms/dose inhalation powder (Meda Pharmaceuticals Ltd),301011
+'13533611000001100,Salbulin Novolizer 100micrograms/dose inhalation powder (Meda Pharmaceuticals Ltd),301011
+'13566111000001109,Salbutamol 100micrograms/dose dry powder inhalation cartridge,301011
+'13533211000001102,Salbutamol 100micrograms/dose dry powder inhalation cartridge,301011
+'13533711000001109,Salbulin Novolizer 100micrograms/dose inhalation powder refill (Meda Pharmaceuticals Ltd),301011
+'13533811000001101,Salbulin Novolizer 100micrograms/dose inhalation powder refill (Meda Pharmaceuticals Ltd),301011
+'13801911000001104,Sodium cromoglicate 5mg/dose inhaler CFC free,303010
+'13776911000001101,Sodium cromoglicate 5mg/dose inhaler CFC free,303010
+'13777011000001102,Intal 5mg/dose inhaler CFC free (Sanofi),303010
+'13777111000001101,Intal 5mg/dose inhaler CFC free (Sanofi),303010
+'14959511000001107,Budesonide 100micrograms/dose inhaler CFC free,302000
+'14951011000001103,Budesonide 100micrograms/dose inhaler CFC free,302000
+'14951111000001102,Pulmicort 100micrograms/dose inhaler CFC free (AstraZeneca UK Ltd),302000
+'14951211000001108,Pulmicort 100micrograms/dose inhaler CFC free (AstraZeneca UK Ltd),302000
+'15374611000001106,Budesonide 200micrograms/dose inhaler CFC free,302000
+'15358311000001109,Budesonide 200micrograms/dose inhaler CFC free,302000
+'15358411000001102,Pulmicort 200micrograms/dose inhaler CFC free (AstraZeneca UK Ltd),302000
+'15358511000001103,Pulmicort 200micrograms/dose inhaler CFC free (AstraZeneca UK Ltd),302000
+'15534911000001100,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid ampoules,301040
+'15522311000001105,Salbutamol 2.5mg/2.5ml / Ipratropium bromide 500micrograms/2.5ml nebuliser liquid ampoules,301040
+'15522411000001103,Salipraneb 0.5mg/2.5mg nebuliser solution 2.5ml ampoules (Arrow Generics Ltd),301040
+'15522511000001104,Salipraneb 0.5mg/2.5mg nebuliser solution 2.5ml ampoules (Arrow Generics Ltd),301040
+'32898611000001109,Salipraneb 0.5mg/2.5mg nebuliser solution 2.5ml ampoules (Actavis UK Ltd),301040
+'32898911000001103,Salipraneb 0.5mg/2.5mg nebuliser solution 2.5ml ampoules (Actavis UK Ltd),301040
+'17313811000001104,Indacaterol 300microgram inhalation powder capsules with device,301011
+'17299811000001107,Indacaterol 300microgram inhalation powder capsules with device,301011
+'17299911000001102,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301011
+'17300011000001103,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301011
+'18489111000001108,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Waymade Healthcare Plc),
+'18489211000001102,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Waymade Healthcare Plc),
+'17313711000001107,Indacaterol 150microgram inhalation powder capsules with device,301011
+'17300711000001101,Indacaterol 150microgram inhalation powder capsules with device,301011
+'17300811000001109,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301011
+'17300911000001104,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301011
+'18488911000001103,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Waymade Healthcare Plc),
+'18489011000001107,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Waymade Healthcare Plc),
+'20948211000001104,Glycopyrronium bromide 2% solution,1312000
+'20941811000001109,Glycopyrronium bromide 2% solution,1312000
+'25369811000001101,Glycopyrronium bromide 2% solution,1312000
+'30773111000001108,Glycopyrronium bromide 2% solution,1312000
+'20941911000001104,Glycopyrronium bromide 2% solution (Special Order),1312000
+'20942011000001106,Glycopyrronium bromide 2% solution (Special Order),1312000
+'25369911000001106,Glycopyrronium bromide 2% solution (Special Order),1312000
+'30773211000001102,Glycopyrronium bromide 2% solution (Special Order),1312000
+'703924000,Aclidinium bromide 375micrograms/dose dry powder inhaler,
+'20985011000001109,Aclidinium bromide 375micrograms/dose dry powder inhaler,301020
+'20985511000001101,Eklira 322micrograms/dose Genuair (AstraZeneca UK Ltd),301020
+'20985611000001102,Eklira 322micrograms/dose Genuair (AstraZeneca UK Ltd),301020
+'28424911000001104,Eklira 322micrograms/dose Genuair (Waymade Healthcare Plc),
+'28425011000001104,Eklira 322micrograms/dose Genuair (Waymade Healthcare Plc),
+'21113711000001102,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,302000
+'21019311000001108,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,302000
+'21019411000001101,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd),302000
+'21019511000001102,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd),302000
+'29749211000001101,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc),
+'29749311000001109,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc),
+'21113811000001105,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free,302000
+'21019611000001103,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free,302000
+'21019711000001107,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Napp Pharmaceuticals Ltd),302000
+'21019811000001104,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Napp Pharmaceuticals Ltd),302000
+'29749611000001104,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Waymade Healthcare Plc),
+'29749711000001108,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Waymade Healthcare Plc),
+'21113911000001100,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,302000
+'21020511000001103,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free,302000
+'21020611000001104,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd),302000
+'21020711000001108,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd),302000
+'29749411000001102,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc),
+'29749511000001103,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Waymade Healthcare Plc),
+'21496211000001102,Glycopyrronium bromide 55microgram inhalation powder capsules with device,301020
+'21495211000001108,Glycopyrronium bromide 55microgram inhalation powder capsules with device,301020
+'21495311000001100,Glycopyrronium bromide 55microgram inhalation powder capsules with device,301020
+'31550911000001105,Glycopyrronium bromide 55microgram inhalation powder capsules with device,301020
+'21495411000001107,Seebri Breezhaler 44microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301020
+'21495511000001106,Seebri Breezhaler 44microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301020
+'21495711000001101,Seebri Breezhaler 44microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301020
+'31551311000001104,Seebri Breezhaler 44microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301020
+'30273611000001108,Seebri Breezhaler 44microgram inhalation powder capsules with device (Waymade Healthcare Plc),
+'30273711000001104,Seebri Breezhaler 44microgram inhalation powder capsules with device (Waymade Healthcare Plc),
+'23661311000001105,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,302000
+'23621611000001106,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,302000
+'23621711000001102,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),302000
+'23621811000001105,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),302000
+'30273011000001101,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (Waymade Healthcare Plc),
+'30273111000001100,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (Waymade Healthcare Plc),
+'23661411000001103,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,302000
+'23621911000001100,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,302000
+'23622011000001107,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),302000
+'23622111000001108,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),302000
+'30273211000001106,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (Waymade Healthcare Plc),
+'30273311000001103,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (Waymade Healthcare Plc),
+'24670111000001108,Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free,301011
+'24607911000001100,Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free,301011
+'24608011000001103,Striverdi Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),301011
+'24608111000001102,Striverdi Respimat 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),301011
+'24645511000001105,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,301040
+'24644511000001109,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler,301040
+'24644611000001108,Anoro Ellipta 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),301040
+'24644711000001104,Anoro Ellipta 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),301040
+'32364511000001104,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (Ennogen Healthcare Ltd),301040
+'32364611000001100,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (Ennogen Healthcare Ltd),301040
+'32629811000001101,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (J M McGill Ltd),301040
+'32629911000001106,Umeclidinium bromide 65micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler (J M McGill Ltd),301040
+'26148711000001101,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,302000
+'26111011000001102,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,302000
+'26112111000001106,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'26112411000001101,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'27890611000001109,Umeclidinium bromide 65micrograms/dose dry powder inhaler,301020
+'27567611000001107,Umeclidinium bromide 65micrograms/dose dry powder inhaler,301020
+'27567911000001101,Incruse Ellipta 55micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),301020
+'27568011000001104,Incruse Ellipta 55micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),301020
+'28049611000001104,Indacaterol 85micrograms/dose / Glycopyrronium bromide 54micrograms/dose inhalation powder capsules with device,301040
+'28007011000001107,Indacaterol 85micrograms/dose / Glycopyrronium bromide 54micrograms/dose inhalation powder capsules with device,301040
+'28007111000001108,Indacaterol 85micrograms/dose / Glycopyrronium bromide 54micrograms/dose inhalation powder capsules with device,301040
+'33570311000001104,Indacaterol 85micrograms/dose / Glycopyrronium bromide 54micrograms/dose inhalation powder capsules with device,301040
+'28007211000001102,Ultibro Breezhaler 85microgram/43microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301040
+'28007311000001105,Ultibro Breezhaler 85microgram/43microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301040
+'28007411000001103,Ultibro Breezhaler 85microgram/43microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301040
+'33570411000001106,Ultibro Breezhaler 85microgram/43microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd),301040
+'28365011000001100,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler,301040
+'28357011000001101,Aclidinium bromide 396micrograms/dose / Formoterol 11.8micrograms/dose dry powder inhaler,301040
+'28357211000001106,Duaklir 340micrograms/dose / 12micrograms/dose Genuair (AstraZeneca UK Ltd),301040
+'28357511000001109,Duaklir 340micrograms/dose / 12micrograms/dose Genuair (AstraZeneca UK Ltd),301040
+'28422511000001101,Fenoterol 50micrograms/dose / Ipratropium bromide 20micrograms/dose inhaler CFC free,301040
+'28410711000001104,Fenoterol 50micrograms/dose / Ipratropium bromide 20micrograms/dose inhaler CFC free,301040
+'28410811000001107,Berodual N inhaler (Imported (Germany)),301040
+'28410911000001102,Berodual N inhaler (Imported (Germany)),301040
+'29987211000001108,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free,301040
+'29971211000001108,Tiotropium bromide 2.5micrograms/dose / Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free,301040
+'29971311000001100,Spiolto Respimat 2.5micrograms/dose / 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),301040
+'29971411000001107,Spiolto Respimat 2.5micrograms/dose / 2.5micrograms/dose solution for inhalation cartridge with device (Boehringer Ingelheim Ltd),301040
+'31087511000001105,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,302000
+'31063011000001105,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler,302000
+'31063111000001106,Fostair NEXThaler 200micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'31063211000001100,Fostair NEXThaler 200micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd),302000
+'31087411000001106,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,302000
+'31063311000001108,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,302000
+'31063411000001101,Fostair 200micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd),302000
+'31063511000001102,Fostair 200micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd),302000
+'32960711000001105,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,302000
+'32925511000001101,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free,302000
+'32926011000001100,Symbicort 200micrograms/dose / 6micrograms/dose pressurised inhaler (AstraZeneca UK Ltd),302000
+'32926711000001103,Symbicort 200micrograms/dose / 6micrograms/dose pressurised inhaler (AstraZeneca UK Ltd),302000
+'33596311000001107,Tiotropium bromide 10microgram inhalation powder capsules with device,301020
+'33594511000001107,Tiotropium bromide 10microgram inhalation powder capsules with device,301020
+'33594911000001100,Braltus 10microgram inhalation powder capsules with Zonda inhaler (Teva UK Ltd),301020
+'33595011000001100,Braltus 10microgram inhalation powder capsules with Zonda inhaler (Teva UK Ltd),301020
+'34683311000001106,Generic Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler,301011
+'34681511000001104,Generic Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler,301011
+'34681611000001100,Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd),301011
+'34681711000001109,Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd),301011
+'34955111000001103,Generic Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler,302000
+'34952111000001105,Generic Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler,302000
+'34952211000001104,Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),302000
+'34952311000001107,Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd),302000
+'35647511000001107,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free,302000
+'35647211000001109,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free,302000
+'35647311000001101,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd),302000
+'35647411000001108,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd),302000
+'35647611000001106,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free,302000
+'35650711000001101,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free,302000
+'35650811000001109,Flutiform K-haler 50micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd),302000
+'35650911000001104,Flutiform K-haler 50micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd),302000

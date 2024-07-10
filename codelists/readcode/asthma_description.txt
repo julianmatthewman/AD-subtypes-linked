@@ -1,0 +1,1 @@
+codes that only people with current asthma would have recorded (including things like severity assessments, clinic visits, management plans, etc..), excluding codes where it is equally likely that the person does not have asthma (e.g. asthma screening)

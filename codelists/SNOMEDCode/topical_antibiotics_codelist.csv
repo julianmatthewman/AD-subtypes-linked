@@ -1,0 +1,119 @@
+SNOMEDCode,description,bnf_chapter
+'332825002,Fusidic acid 2% cream,1310012
+'1001811000001100,Fusidic acid 2% cream,1310012
+'1060711000001101,Fusidic acid 2% cream,1310012
+'818211000001108,Fucidin 20mg/g cream (LEO Pharma),1310012
+'1553711000001102,Fucidin 20mg/g cream (LEO Pharma),1310012
+'1553811000001105,Fucidin 20mg/g cream (LEO Pharma),1310012
+'5264311000001103,Fucidin 20mg/g cream (Waymade Healthcare Plc),
+'5264411000001105,Fucidin 20mg/g cream (Waymade Healthcare Plc),
+'12198811000001101,Fucidin 20mg/g cream (Waymade Healthcare Plc),
+'5292911000001109,Fucidin 20mg/g cream (Dowelhurst Ltd),
+'5293011000001101,Fucidin 20mg/g cream (Dowelhurst Ltd),
+'5464111000001104,Fusidic acid 2% cream (Dowelhurst Ltd),
+'5464211000001105,Fusidic acid 2% cream (Dowelhurst Ltd),
+'13881811000001105,Fucidin 20mg/g cream (DE Pharmaceuticals),
+'13881911000001100,Fucidin 20mg/g cream (DE Pharmaceuticals),
+'14244911000001100,Fucidin 20mg/g cream (Sigma Pharmaceuticals Plc),
+'14245011000001100,Fucidin 20mg/g cream (Sigma Pharmaceuticals Plc),
+'18156111000001105,Fucidin 20mg/g cream (Mawdsley-Brooks & Company Ltd),
+'18156211000001104,Fucidin 20mg/g cream (Mawdsley-Brooks & Company Ltd),
+'21158011000001104,Fusidic acid 2% cream (Advanz Pharma),1310012
+'21158111000001103,Fusidic acid 2% cream (Advanz Pharma),1310012
+'21158211000001109,Fusidic acid 2% cream (Advanz Pharma),1310012
+'21218711000001105,Fusidic acid 2% cream (Actavis UK Ltd),1310012
+'21218811000001102,Fusidic acid 2% cream (Actavis UK Ltd),1310012
+'21218911000001107,Fusidic acid 2% cream (Actavis UK Ltd),1310012
+'21229911000001109,Fusidic acid 2% cream (A A H Pharmaceuticals Ltd),1310012
+'21230011000001104,Fusidic acid 2% cream (A A H Pharmaceuticals Ltd),1310012
+'21230111000001103,Fusidic acid 2% cream (A A H Pharmaceuticals Ltd),1310012
+'21233611000001102,Fusidic acid 2% cream (Alliance Healthcare (Distribution) Ltd),1310012
+'21233711000001106,Fusidic acid 2% cream (Alliance Healthcare (Distribution) Ltd),1310012
+'21233811000001103,Fusidic acid 2% cream (Alliance Healthcare (Distribution) Ltd),1310012
+'23919811000001102,Fusidic acid 2% cream (Phoenix Healthcare Distribution Ltd),1310012
+'23919911000001107,Fusidic acid 2% cream (Phoenix Healthcare Distribution Ltd),1310012
+'23920011000001109,Fusidic acid 2% cream (Phoenix Healthcare Distribution Ltd),1310012
+'28932311000001108,Fusidic acid 2% cream (Teva UK Ltd),1310012
+'28932511000001102,Fusidic acid 2% cream (Teva UK Ltd),1310012
+'28932411000001101,Fusidic acid 2% cream (Teva UK Ltd),1310012
+'29867911000001107,Fusidic acid 2% cream (Sigma Pharmaceuticals Plc),1310012
+'29868011000001109,Fusidic acid 2% cream (Sigma Pharmaceuticals Plc),1310012
+'29868111000001105,Fusidic acid 2% cream (Sigma Pharmaceuticals Plc),1310012
+'30056311000001101,Fusidic acid 2% cream (DE Pharmaceuticals),1310012
+'30056411000001108,Fusidic acid 2% cream (DE Pharmaceuticals),1310012
+'30056511000001107,Fusidic acid 2% cream (DE Pharmaceuticals),1310012
+'32407211000001103,Fusidic acid 2% cream (Kent Pharmaceuticals Ltd),1310012
+'32407311000001106,Fusidic acid 2% cream (Kent Pharmaceuticals Ltd),1310012
+'32407411000001104,Fusidic acid 2% cream (Kent Pharmaceuticals Ltd),1310012
+'332829008,Sodium fusidate 2% ointment,1310012
+'1051311000001100,Sodium fusidate 2% ointment,1310012
+'1245711000001105,Sodium fusidate 2% ointment,1310012
+'516611000001105,Fucidin 20mg/g ointment (LEO Pharma),1310012
+'1555311000001100,Fucidin 20mg/g ointment (LEO Pharma),1310012
+'1555411000001107,Fucidin 20mg/g ointment (LEO Pharma),1310012
+'5463611000001109,Sodium fusidate 2% ointment (Dowelhurst Ltd),
+'5463711000001100,Sodium fusidate 2% ointment (Dowelhurst Ltd),
+'5547311000001105,Fucidin 20mg/g ointment (Dowelhurst Ltd),
+'5547511000001104,Fucidin 20mg/g ointment (Dowelhurst Ltd),
+'10538211000001106,Fucidin 20mg/g ointment (Waymade Healthcare Plc),
+'10538411000001105,Fucidin 20mg/g ointment (Waymade Healthcare Plc),
+'13882011000001107,Fucidin 20mg/g ointment (DE Pharmaceuticals),
+'13882111000001108,Fucidin 20mg/g ointment (DE Pharmaceuticals),
+'14245111000001104,Fucidin 20mg/g ointment (Sigma Pharmaceuticals Plc),
+'14245311000001102,Fucidin 20mg/g ointment (Sigma Pharmaceuticals Plc),
+'16276911000001102,Fucidin 20mg/g ointment (Mawdsley-Brooks & Company Ltd),
+'16277011000001103,Fucidin 20mg/g ointment (Mawdsley-Brooks & Company Ltd),
+'18215311000001105,Fucidin 20mg/g ointment (Mawdsley-Brooks & Company Ltd),
+'331849001,Betamethasone valerate 0.1% / Fusidic acid 2% cream,1304000
+'1041811000001107,Betamethasone valerate 0.1% / Fusidic acid 2% cream,1304000
+'963311000001102,Betamethasone valerate 0.1% / Fusidic acid 2% cream,1304000
+'332826001,Fusidic acid 2% gel,1310012
+'1155811000001103,Fusidic acid 2% gel,1310012
+'1105211000001107,Fusidic acid 2% gel,1310012
+'587111000001101,Fucidin 2% gel (LEO Pharma),1310012
+'2403811000001106,Fucidin 2% gel (LEO Pharma),1310012
+'2404111000001102,Fucidin 2% gel (LEO Pharma),1310012
+'331742001,Hydrocortisone acetate 1% / Fusidic acid 2% cream,1304000
+'2903311000001104,Hydrocortisone acetate 1% / Fusidic acid 2% cream,1304000
+'2903411000001106,Hydrocortisone acetate 1% / Fusidic acid 2% cream,1304000
+'2903711000001100,Fucidin H cream (LEO Pharma),1304000
+'2903911000001103,Fucidin H cream (LEO Pharma),1304000
+'2904011000001100,Fucidin H cream (LEO Pharma),1304000
+'331740009,Hydrocortisone acetate 1% / Sodium fusidate 2% ointment,1304000
+'2904511000001108,Hydrocortisone acetate 1% / Sodium fusidate 2% ointment,1304000
+'2904711000001103,Hydrocortisone acetate 1% / Sodium fusidate 2% ointment,1304000
+'2905011000001101,Fucidin H ointment (LEO Pharma),1304000
+'2905211000001106,Fucidin H ointment (LEO Pharma),1304000
+'2905411000001105,Fucidin H ointment (LEO Pharma),1304000
+'332783001,Mupirocin 2% cream,1310011
+'2907711000001105,Mupirocin 2% cream,1310011
+'332784007,Mupirocin 2% ointment,1310011
+'2908311000001107,Mupirocin 2% ointment,1310011
+'21230211000001109,Mupirocin 2% ointment (Advanz Pharma),1310011
+'21230311000001101,Mupirocin 2% ointment (Advanz Pharma),1310011
+'21548011000001107,Mupirocin 2% ointment (A A H Pharmaceuticals Ltd),1310011
+'21548311000001105,Mupirocin 2% ointment (A A H Pharmaceuticals Ltd),1310011
+'21553011000001102,Mupirocin 2% ointment (Alliance Healthcare (Distribution) Ltd),1310011
+'21553111000001101,Mupirocin 2% ointment (Alliance Healthcare (Distribution) Ltd),1310011
+'21666211000001102,Mupirocin 2% ointment (Actavis UK Ltd),1310011
+'21666311000001105,Mupirocin 2% ointment (Actavis UK Ltd),1310011
+'24405311000001107,Mupirocin 2% ointment (DE Pharmaceuticals),1310011
+'24405411000001100,Mupirocin 2% ointment (DE Pharmaceuticals),1310011
+'29927711000001109,Mupirocin 2% ointment (Sigma Pharmaceuticals Plc),1310011
+'29927811000001101,Mupirocin 2% ointment (Sigma Pharmaceuticals Plc),1310011
+'32766711000001104,Mupirocin 2% ointment (Intrapharm Laboratories Ltd),1310011
+'32766811000001107,Mupirocin 2% ointment (Intrapharm Laboratories Ltd),1310011
+'2922411000001106,Anabact 0.75% gel (Cambridge Healthcare Supplies Ltd),1310012
+'2922611000001109,Anabact 0.75% gel (Cambridge Healthcare Supplies Ltd),1310012
+'2922911000001103,Anabact 0.75% gel (Cambridge Healthcare Supplies Ltd),1310012
+'34445211000001109,Anabact 0.75% gel (Cambridge Healthcare Supplies Ltd),1310012
+'2924311000001106,Zyomet 0.75% gel (Advanz Pharma),1310012
+'2924511000001100,Zyomet 0.75% gel (Advanz Pharma),1310012
+'3631711000001102,Acea 0.75% gel (Ferndale Pharmaceuticals Ltd),1310012
+'3631811000001105,Acea 0.75% gel (Ferndale Pharmaceuticals Ltd),1310012
+'11378211000001104,Gentamicin 0.3% eye ointment,
+'11378311000001107,Gentamicin 0.3% eye ointment,
+'18496211000001105,Gentamicin 0.1% cream,1310012
+'18472611000001104,Gentamicin 0.1% cream,1310012
+'18472711000001108,Gentamicin 0.1% cream (Special Order),1310012
+'18472811000001100,Gentamicin 0.1% cream (Special Order),1310012
